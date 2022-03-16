@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE ru-patent-document SYSTEM "ru-patent-document-v1-3.dtd">
+<ru-patent-document lang="ru" dtd-version="ru-patent-document-v1-3" doc-number="02416612" country="RU" kind="C9" date-publ="20120327" correction-code="W2" status="N">
+<SDOBI lang="ru">
+<B100>
+<B110>02416612</B110>
+<B130>C9</B130>
+
+<B132EP>C2</B132EP>
+<B140><date>20120327</date></B140>
+<B150><B151>W2</B151></B150>
+<B190>RU</B190>
+</B100>
+<ru-b200>
+<B210>2008106782/04</B210>
+<B220><date>20060724</date></B220>
+<B240><ru-b240><date>20060724</date></ru-b240></B240>
+</ru-b200>
+<B300>
+<B310>60/701,729</B310><B320><date>20050722</date></B320><B330><ctry>US</ctry></B330>
+</B300>
+<B400>
+<B430><date>20090827</date><bnum>24</bnum></B430>
+<B450><date>20110420</date></B450>
+<B480><date>20120327</date><bnum>9</bnum></B480>
+</B400>
+<B500>
+<B510EP>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>C</section><class>07</class><subclass>D</subclass><main-group> 409</main-group><subgroup>12    </subgroup><symbol-position>first-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>C</section><class>07</class><subclass>D</subclass><main-group> 409</main-group><subgroup>14    </subgroup><symbol-position>later-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>C</section><class>07</class><subclass>D</subclass><main-group> 209</main-group><subgroup>14    </subgroup><symbol-position>later-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>C</section><class>07</class><subclass>D</subclass><main-group> 333</main-group><subgroup>60    </subgroup><symbol-position>later-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>A</section><class>61</class><subclass>K</subclass><main-group>  38</main-group><subgroup>00    </subgroup><symbol-position>later-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>A</section><class>61</class><subclass>K</subclass><main-group>  31</main-group><subgroup>404   </subgroup><symbol-position>later-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>A</section><class>61</class><subclass>K</subclass><main-group>  31</main-group><subgroup>381   </subgroup><symbol-position>later-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>A</section><class>61</class><subclass>K</subclass><main-group>  31</main-group><subgroup>454   </subgroup><symbol-position>later-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>A</section><class>61</class><subclass>K</subclass><main-group>  31</main-group><subgroup>4535  </subgroup><symbol-position>later-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>A</section><class>61</class><subclass>P</subclass><main-group>   5</main-group><subgroup>06    </subgroup><symbol-position>later-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+</B510EP>
+<ru-b540>
+<B541>ru</B541><ru-b542>СТИМУЛЯТОРЫ СЕКРЕЦИИ ГОРМОНА РОСТА</ru-b542>
+</ru-b540>
+
+<B560><ru-b560>V.GUERLAVAIS et al., Letters in Peptide, vol.8, p.p.187-193, 2002. ANKERSEN M. et al., Eur.J.Med.Chem., vol.35, p.p.487-497, 2000. WO 0192292 A2, 06.12.2001. RU 2172742 С2, 27.08.2001.</ru-b560></B560>
+</B500>
+<B700><B720>
+<B721><ru-name-text>ДОНГ Чжен Ксин (US)</ru-name-text></B721>
+<B721><ru-name-text>ЭЙНОН Джон С. (US)</ru-name-text></B721>
+<B721><ru-name-text>ШЕН Йилана (US)</ru-name-text></B721>
+</B720>
+<B730>
+<B731><ru-name-text>ИПСЕН ФАРМА С.А.С. (FR)</ru-name-text></B731>
+</B730></B700>
+<B800>
+<B850><date>20080222</date></B850>
+<B860>
+<B861><dnum><anum>US 2006/029002</anum></dnum><date>20060724</date></B861>
+</B860>
+<B870>
+<B871><dnum><pnum>WO 2007/014258</pnum></dnum><date>20070201</date></B871>
+</B870></B800>
+<B900>
+<ru-b980>129090, Москва, ул. Б.Спасская, 25, стр.3, ООО "Юридическая фирма Городисский и Партнеры", пат.пов. Е.Е.Назиной</ru-b980>
+</B900>
+
+
+</SDOBI>
+
+<SDOBI lang="en">
+<B100>
+<B110>02416612</B110>
+<B130>C9</B130>
+
+<B132EP>C2</B132EP>
+<B140><date>20120327</date></B140>
+<B150><B151>W2</B151></B150>
+<B190>RU</B190>
+</B100>
+<ru-b200>
+<B210>2008106782/04</B210>
+<B220><date>20060724</date></B220>
+<B240><ru-b240><date>20060724</date></ru-b240></B240>
+</ru-b200>
+<B300>
+<B310>60/701,729</B310><B320><date>20050722</date></B320><B330><ctry>US</ctry></B330>
+</B300>
+<B400>
+<B430><date>20090827</date><bnum>24</bnum></B430>
+<B450><date>20110420</date></B450>
+<B480><date>20120327</date><bnum>9</bnum></B480>
+</B400>
+<B500>
+<B510EP>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>C</section><class>07</class><subclass>D</subclass><main-group> 409</main-group><subgroup>12    </subgroup><symbol-position>first-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>C</section><class>07</class><subclass>D</subclass><main-group> 409</main-group><subgroup>14    </subgroup><symbol-position>later-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>C</section><class>07</class><subclass>D</subclass><main-group> 209</main-group><subgroup>14    </subgroup><symbol-position>later-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>C</section><class>07</class><subclass>D</subclass><main-group> 333</main-group><subgroup>60    </subgroup><symbol-position>later-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>A</section><class>61</class><subclass>K</subclass><main-group>  38</main-group><subgroup>00    </subgroup><symbol-position>later-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>A</section><class>61</class><subclass>K</subclass><main-group>  31</main-group><subgroup>404   </subgroup><symbol-position>later-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>A</section><class>61</class><subclass>K</subclass><main-group>  31</main-group><subgroup>381   </subgroup><symbol-position>later-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>A</section><class>61</class><subclass>K</subclass><main-group>  31</main-group><subgroup>454   </subgroup><symbol-position>later-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>A</section><class>61</class><subclass>K</subclass><main-group>  31</main-group><subgroup>4535  </subgroup><symbol-position>later-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>A</section><class>61</class><subclass>P</subclass><main-group>   5</main-group><subgroup>06    </subgroup><symbol-position>later-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20101228</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+</B510EP>
+<ru-b540>
+<B541>en</B541><ru-b542>HUMAN GROWTH HORMONE SECRETION STIMULANTS</ru-b542>
+</ru-b540></B500>
+<B700><B720>
+<B721><ru-name-text>DONG Chzhen Ksin (US)</ru-name-text></B721>
+<B721><ru-name-text>EhJNON Dzhon S. (US)</ru-name-text></B721>
+<B721><ru-name-text>ShEN Jilana (US)</ru-name-text></B721>
+</B720>
+<B730>
+<B731><ru-name-text>IPSEN FARMA S.A.S. (FR)</ru-name-text></B731>
+</B730></B700>
+<B800>
+<B850><date>20080222</date></B850>
+<B860>
+<B861><dnum><anum>US 2006/029002</anum></dnum><date>20060724</date></B861>
+</B860>
+<B870>
+<B871><dnum><pnum>WO 2007/014258</pnum></dnum><date>20070201</date></B871>
+</B870></B800>
+<B900>
+<ru-b980>129090, Moskva, ul. B.Spasskaja, 25, str.3, OOO "Juridicheskaja firma Gorodisskij i Partnery", pat.pov. E.E.Nazinoj</ru-b980>
+</B900>
+
+
+</SDOBI>
+
+<description lang="ru" status="N">
+<p num="1"><u>Уровень техники изобретения</u></p>
+<p num="2">Пульсирующее высвобождение гормона роста из соматотрофных клеток гипофиза регулируется двумя гипоталамическими нейропептидами: гормоном, высвобождающим гормон роста, и соматостатином. Гормон, высвобождающий гормон роста, стимулирует высвобождение гормона роста, в то время как соматостатин ингибирует секрецию гормона роста (Frohman et al., Endocrinology Review, (1986), 7: 223-253 и Strobi et al., Pharmacol. Review, (1994), 46: 1-34).</p>
+<p num="3">Высвобождение гормона роста из соматотрофных клеток гипофиза также может контролироваться пептидами, высвобождающими гормон роста (GHRP). Гексапептид GHRP, His-D-Trp-Ala-Trp-D-Phe-Lys-амид (GHRP-6), как было найдено, высвобождает гормон роста из соматотрофных клеток дозазависимым образом у некоторых видов, включая человека (Bowers et al., Endocrinology, (1984), 114: 1537-45). Дальнейшие химические исследования GHRP-6 привели к идентификации других сильнодействующих стимуляторов секреции гормона роста, таких как GHRP-1, GHRP-2 и гексарелин (Cheng et al., Endocrinology, (1989), 124: 2791-8; Bowers, C.Y., Novel GH-Releasing Peptides, Molecular and Clinical Advances in Pituitary Disorders, Ed: Melmed, S., Endocrine Research and Education, Inc., Los Angeles, CA, USA, (1993), 153-7 и Deghenghi et al., Life Science, (1994), 54: 1321-8). Структуры этих трех стимуляторов секреции гормона роста представляют собой, как показано:</p>
+<p num="4">
+<tables num="1"><table frame="none">
+<tgroup cols="2" rowsep="0" colsep="0">
+<colspec colname="c0" colwidth="33mm"/>
+<colspec colname="c1" colwidth="135mm"/>
+<tbody>
+<row>
+<entry align="justify" rowsep="0" colsep="0">GHRP-1</entry>
+<entry align="justify" rowsep="0" colsep="0">Ala-His-D-(2')-Nal-Ala-Trp-D-Phe-Lys-NH<sub>2</sub>;</entry>
+</row>
+<row>
+<entry align="justify" rowsep="0" colsep="0">GHRP-2</entry>
+<entry align="justify" rowsep="0" colsep="0">D-Ala-D-(2')-Nal-Ala-Trp-D-Nal-Lys-NH<sub>2</sub>; и</entry>
+</row>
+<row>
+<entry align="justify" rowsep="0" colsep="0">гексарелин</entry>
+<entry align="justify" rowsep="0" colsep="0">His-D-2-MeTrp-Ala-Trp-D-Phe-Lys-NH<sub>2</sub>.</entry>
+</row>
+</tbody></tgroup></table></tables>
+
+</p>
+<p num="5">GHRP-1, GHRP-2, GHRP-6 и гексарелин представляют собой синтетические стимуляторы секреции гормона роста (в дальнейшем в этом документе в совокупности именуемые как “GHS”). GHS стимулируют секрецию гормона роста по механизму, отличающемуся от такового для гормона, высвобождающего гормон роста (Bowers, C.Y. et al., Endocrinology, (1984), 114: 1537-45; Cheng et al., Endocrinology, (1989), 124: 2791-8; Bowers, C.Y., Novel GH-Releasing Peptides, Molecular and Clinical Advances in Pituitary Disorders, Ed: Melmed, S., Endocrine Research and Education, Inc., Los Angeles, CA, USA, (1993), 153-7 и Deghenghi et al., Life Science, (1994), 54: 1321-8).</p>
+<p num="6">Низкая биологическая активность при пероральном применении (обычно принимаемая как &lt;1%) этих пептидил-стимуляторов секреции гормона роста стимулировала поиск непептидных соединений, имитирующих действие GHRP-6 в гипофизе. Некоторые бензолактамы и спироинданы, как было описано, стимулируют высвобождение гормона роста у различных видов животных и у человека (Smith et al., Science, (1993), 260: 1640-3; Patchett et al., Proceedings of the National Academy Science USA, (1995), 92: 7001-5; и Chen et al., Bioorganic Medical Chemistry Letter, (1996), 6: 2163-9). Конкретным примером такого небольшого спироиндана является МК-0677 (Patchett et al., Proceedings of the National Academy Science USA, (1995), 92: 7001-5), который имеет нижеследующую структуру:</p>
+<p num="7"><img file="00000001.tif" he="34" wi="70" img-format="tif" img-content="undefined"/>.</p>
+<p num="8">Действия вышеупомянутых GHS (как пептидов, так и непептидов) проявляется при помощи посредничества специфического рецептора стимулятора секреции гормона роста (в дальнейшем в этом документе в совокупности именуемые как “GHS-рецептор”) (Howard et al., Science, (1996), 273: 974-7 и Pong et al., Moleсular Endocrinology, (1996), 10: 57-61). GHS-рецептор, найденный в железах гипофиза и гипоталамуса у различных видов млекопитающих (GHSR1a), отличается от рецептора гормона, высвобождающего гормон роста (в дальнейшем в этом документе именуемый как “GHRH-рецептор”). GHS-рецептор также был обнаружен в других тканях центральной нервной системы и в периферических тканях, таких как надпочечная и щитовидная железы, а также сердце, легкое, почки и ткани скелетных мышц (Chen et al., Bioorganic Medical Chemistry Letter, (1996), 6: 2163-9; Howard et al., Science, (1996), 273: 974-7 и Pong et al., Moleсular Endocrinology, (1996), 10: 57-61; Guan et al., Molecular Brain Research, (1997), 48: 23-9 и McKee et al., Genomics, (1997), 46: 426-34). Сокращенный вариант GHSR1a также был опубликован (Howard et al., Science, (1996), 273: 974-7).</p>
+<p num="9">GHS-рецептор представляет собой G-протеинсвязанный рецептор. Эффекты активации GHS-рецептора включают деполяризацию и ингибирование кальциевых каналов, возрастание внутриклеточных концентраций инозитолтрифосфата (IP3) и внутриклеточных концентраций кальция, несмотря на кратковременное состояние для последнего показателя (Pong et al., Moleсular Endocrinology, (1996), 10: 57-61; Guan et al., Molecular Brain Research, (1997), 48: 23-9 и McKee et al., Genomics, (1997), 46: 426-34).</p>
+<p num="10">Грелин представляет собой встречающийся в природе пептид, который считается эндогенным лигандом для GHS-рецептора (Kojima et al., Nature, (1999), 402: 656-60). Известны природные структуры грелина для различных видов млекопитающих и немлекопитающих (Kaiya et al., Journal of Biological Chemistry, (2001), 276: 40441-8 и международная патентная заявка PCT/JP 00/04907 [WO 01/07475]). Центральная часть молекулы, представленная в грелине, ответственна за наблюдаемую активность GHS-рецептора. Центральная часть включает в себя четыре N-концевые аминокислоты, у которых серин в третьем положении обычно модифицирован н-октановой кислотой. В дополнение к ацилированию н-октановой кислотой, природный грелин может быть также ацилирован н-декановой кислотой (Kaiya et al., Journal of Biological Chemistry, (2001), 276: 40441-8).</p>
+<p num="11">GHS-молекулы, такие как грелин и его аналоги, имеют ряд различных терапевтических (Inui, A., FASEB J., (2004), 18: 439-56; Muller et al., Neurobiology of Aging, (2002), 23: 907-19; Casanueva, F.F. et al., TEM, (1999), 10: 30-8 и Ankerson, M. et al., DDT, (1999) 4: 497-506) и диагностических применений. Были обнаружены соединения, проявляющие действия агонистов на GHS-рецептор, для содействия стимуляции секреции гормона роста. Сами по себе аналоги грелина показаны для улучшения состояния дефицита гормона роста (патент США № 6861409, патент США № 6967237 и Casanueva, F.F. et al., TEM, (1999), 10: 30-8), увеличения мышечной массы (патент США № 6861409, патент США № 6967237) и/или физической силы (Ankerson, M. et al., DDT, (1999) 4: 497-506), улучшения плотности кости (патенты США № 6861409,  6967237 и 6251202, и Sibilia, V. et al., Growth Horm. IGF Res., (1999), 9: 219-27), лечения остеопороза (WO 97/24369, WO 98/58947, Casanueva, F.F. et al., TEM, (1999), 10: 30-8), преодоления мужской и женской половой дисфункции (патент США № 6967237, Casanueva, F.F. et al., TEM, (1999), 10: 30-8), лечения сердечно-сосудистого заболевания (WO 97/24369, WO 98/58947, патент США № 6251902, DeGennaro Colonna, V. et al., Eur. J. Pharmacol., (1997), 334: 201-7 и Casanueva, F.F. et al., TEM, (1999), 10: 30-8), ослабления боли при артрите (Granado, M., AJP Endo., (2005), 288: 486-92) и лечения системной эритематозной волчанки или воспалительного заболевания кишечника (например, болезни Крона или язвенного колита) (патентная публикация США 2002/0013320). Агонистические аналоги грелина могут способствовать приросту массы тела (патент США № 6967237, Tschop, M. et al., Endocrinology, (2002), 143: 558-68), что, в свою очередь, может использоваться для поддержания требуемой массы тела (патенты США № 6861409 и 6967237) и/или чтобы восстановить физическую функцию (патенты США № 6967237 и 6251902 и WO 97/24369).</p>
+<p num="12">Грелин также повышает аппетит (патент США № 6967237 и Okada, K. et al., Endocrinology, (1996), 137: 5155-8). По этой причине грелин применяется для лечения пациентов, страдающих от определенных заболеваний или расстройств, или предпринятых медицинских режимов, которые обычно сопровождаются нежелательной потерей веса. Такие заболевания и расстройства включают анорексию (патент США № 6967237; Tschop, M. et al., Endocrinology, (2002), 143: 558-68), булимию (патент США № 6967237), кахексию (патенты США № 6967237 и 6251902), особенно вызванную раком кахексию (патент США № 6967237, Tschop, M. et al., Endocrinology, (2002), 143: 558-68), СПИД (патенты США № 6861409 и 6967237, Tschop, M. et al., Endocrinology, (2002), 143: 558-68), синдром истощения при слабости и/или пожилом возрасте (патенты США № 6861409 и 6967237, WO 97/24369; Ankerson, M. et al., DDT, (1999) 4: 497-506) и хроническую почечную недостаточность (Casanueva, F.F. et al., TEM, (1999), 10: 30-8). Медицинские методы лечения, обычно сопровождающиеся потерей веса, включают химиотерапию, лучевую терапию, временное или постоянное лишение подвижности (иммобилизацию) и/или диализ (патенты США № 6967237 и 6251902).</p>
+<p num="13">Ожирение представляет собой наиболее существенный фактор риска в случае диабета, и большая часть пациентов с инсулиннезависимым сахарным диабетом (по-другому именуемым как “NIDDM”) являются тучными. И то, и другое патологические состояния характеризуются повышенными уровнями циркулирующего инсулина и пониженными уровнями GH. Было показано, что лечение с помощью GH взрослых GH-дефицитных пациентов (Jorgensen, J.O.L., et al., Lancet, (1989), 1: 1221), тучных женщин (Richelsen, B., et al., Am. J. Physiol, (1994), 266: E211) и пожилых мужчин (Rudman, D., et al., Horm. Res., (1991), 36 (Suppl 1): 73) приводит к увеличениям сухощавости тела, печеночной и мышечной массы, в то время как для жировой массы наблюдается уменьшение. Таким образом, введение агониста грелина представляет собой приемлемую терапию ожирения, за исключением диабетогенных эффектов GH (патент США № 6251902; Ankerson, M. et al., DDT, (1999) 4: 497-506; Casanueva, F.F. et al., TEM, (1999), 10: 30-8). Сопутствующие диабету нарушения, такие как ретинопатия и/или излечимые сердечно-сосудистые нарушения (патент США № 6967237, опубликованная заявка на патент США 2003/0211967), могут быть опосредованно вылечены грелином с таким же успехом.</p>
+<p num="14">Парадоксально, что антагонисты грелина могут применяться для содействия потере веса тучным пациентом, в том случае, когда упомянутое ожирение не связано с проявлением NIDDM (патент США № 6967237, опубликованная заявка на патент США 2003/0211967), а также в случае некоторых других идентифицированных симптомов. Соединения, проявляющие действия антагонистов GHS-рецептора, способствуют подавлению секреции гормона роста, например, аналоги антагонистов грелина предписаны для лечения избыточной секреции гормона роста (опубликованная заявка на патент США 2002/0187938), для содействия потере веса нетучным пациентом (патент США № 6967237), для поддержания идеального веса и снижения аппетита (патент США № 6967237). Избыточный вес является содействующим фактором для многих заболеваний или патологических состояний, таких как гипертония, дислипидемия и сердечно-сосудистые заболевания (опубликованная заявка на патент США 2003/0211967; патент США № 6967237), а также желчные камни, остеоартрит (патент США № 6967237), некоторые виды рака (опубликованные заявки на патенты США 2003/0211967 и 2004/0157227, патент США № 6967237) и синдром Прадера-Вилли (патент США № 6950707). Применение антагонистов грелина для содействия потере веса, таким образом, будет полезным для уменьшения вероятности таких заболеваний или патологических состояний и/или будет полезным, по меньшей мере, как составная часть лечения таких заболеваний или патологических состояний.</p>
+<p num="15">Аналоги стимуляторов секреции гормона роста также применялись для того, чтобы вызвать желудочно-кишечную сократительную способность, особенно у пациентов, страдающих пониженной желудочно-кишечной сократительной способностью в результате послеоперационной кишечной непроходимости или пареза желудка, сопутствующего приступу диабета или состоянию хронического диабета (патент США № 6548501).</p>
+<p num="16">Учитывая широкое разнообразие лечебных эффектов стимуляторов секреции гормона роста, следует обратить внимание, что существует потребность, в соответствии с развитием уровня техники, в эффективных агонистах или антагонистах GHS-молекул.</p>
+<p num="17"><u>Сущность изобретения</u></p>
+<p num="18">Настоящее изобретение описывает пептидил-аналоги, активные в отношении GHS-рецептора. Аналоги изобретения могут связываться с GHS-рецептором и, предпочтительно, вызывать передачу сигнала. Таким образом, в первом аспекте настоящее изобретение описывает соединение, соответствующее формуле (I):</p>
+<p num="19"><img file="00000002.tif" he="54" wi="28" img-format="tif" img-content="undefined"/></p>
+<p num="20">где Х представляет собой</p>
+<p num="21"><img file="00000003.tif" he="16" wi="28" img-format="tif" img-content="undefined"/>, <img file="00000004.tif" he="19" wi="34" img-format="tif" img-content="undefined"/> или <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>;</p>
+<p num="22">Y представляет собой Н или NR<sup>12</sup>R<sup>13</sup>;</p>
+<p num="23">Z представляет собой -С(О)- или -SO<sub>2</sub>-;</p>
+<p num="24">n равно, независимо друг от друга, для каждого случая, 1, 2, 3, 4, 5, 6, 7 или 8;</p>
+<p num="25">R<sup>1</sup> и R<sup>3</sup>, каждый, независимо друг от друга, для каждого случая, представляет собой Н или (С<sub>1</sub>-С<sub>4</sub>)алкил;</p>
+<p num="26">R<sup>2</sup> и R<sup>4</sup>, каждый, независимо друг от друга, для каждого случая, представляет собой</p>
+<p num="27"><img file="00000006.tif" he="18" wi="29" img-format="tif" img-content="undefined"/>, <img file="00000007.tif" he="23" wi="28" img-format="tif" img-content="undefined"/>, <img file="00000008.tif" he="13" wi="38" img-format="tif" img-content="undefined"/> или <img file="00000009.tif" he="20" wi="32" img-format="tif" img-content="undefined"/>;</p>
+<p num="28">R<sup>5</sup> представляет собой Н, (С<sub>1</sub>-С<sub>6</sub>)алкил, (С<sub>2</sub>-С<sub>6</sub>)алкенил, (С<sub>2</sub>-С<sub>6</sub>)алкинил, замещенный (С<sub>1</sub>-С<sub>6</sub>)алкил, замещенный (С<sub>2</sub>-С<sub>6</sub>)алкенил, замещенный (С<sub>2</sub>-С<sub>6</sub>)алкинил, арил, алкиларил, алкиларилалкил или арилалкиларил;</p>
+<p num="29">R<sup>8</sup> и R<sup>9</sup>, каждый, независимо друг от друга, для каждого случая, представляет собой (С<sub>1</sub>-С<sub>6</sub>)алкил или замещенный (С<sub>1</sub>-С<sub>6</sub>)алкил;</p>
+<p num="30">R<sup>6</sup>, R<sup>7</sup>, R<sup>10</sup>, R<sup>11</sup>, R<sup>12</sup> и R<sup>13</sup>, каждый, независимо друг от друга, для каждого случая, представляет собой Н, (С<sub>1</sub>-С<sub>6</sub>)алкил или замещенный (С<sub>1</sub>-С<sub>6</sub>)алкил; и</p>
+<p num="31">Q представляет собой Н или(С<sub>1</sub>-С<sub>4</sub>)алкил;</p>
+<p num="32">при условии, что каждый из R<sup>2</sup> и R<sup>4</sup> не является <img file="00000009.tif" he="20" wi="32" img-format="tif" img-content="undefined"/> в указанном соединении;</p>
+<p num="33">или его фармацевтически приемлемую соль.</p>
+<p num="34">Предпочтительная группа соединений непосредственно вышеупомянутой формулы представляет собой такую, где, по меньшей мере, один из R<sup>2</sup> и R<sup>4</sup> представляет собой</p>
+<p num="35"><img file="00000010.tif" he="20" wi="35" img-format="tif" img-content="undefined"/>.</p>
+<p num="36">Предпочтительное соединение формулы (I) или его фармацевтически приемлемая соль, названное соединением группы 1, представляет собой соединение, соответствующее формуле (I), где:</p>
+<p num="37">R<sup>2</sup> представляет собой <img file="00000010.tif" he="20" wi="35" img-format="tif" img-content="undefined"/>;</p>
+<p num="38">R<sup>4</sup> представляет собой <img file="00000010.tif" he="20" wi="35" img-format="tif" img-content="undefined"/>;</p>
+<p num="39">Z представляет собой -С(О)-;</p>
+<p num="40">Х представляет собой <img file="00000003.tif" he="16" wi="28" img-format="tif" img-content="undefined"/>, где R<sup>6</sup> и R<sup>7</sup>, каждый, независимо друг от друга, представляет собой Н, и R<sup>8</sup> и R<sup>9</sup>, каждый, независимо друг от друга, представляет собой СН<sub>3</sub>; или</p>
+<p num="41">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой Н; или</p>
+<p num="42">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой NR<sup>12</sup>R<sup>13</sup>, и каждый из R<sup>12</sup> и R<sup>13</sup>, независимо друг от друга, представляет собой Н;</p>
+<p num="43">R<sup>1</sup> представляет собой Н;</p>
+<p num="44">R<sup>3</sup> представляет собой Н или метил и</p>
+<p num="45">R<sup>5</sup> представляет собой Н, метил, этил, изопропил или трет-бутил.</p>
+<p num="46">Предпочтительное соединение формулы (I) или его фармацевтически приемлемая соль, названное соединением группы 1А, представляет собой соединение, соответствующее формуле (I), где:</p>
+<p num="47">R<sup>2</sup> представляет собой <img file="00000006.tif" he="18" wi="29" img-format="tif" img-content="undefined"/>;</p>
+<p num="48">R<sup>4</sup> представляет собой <img file="00000006.tif" he="18" wi="29" img-format="tif" img-content="undefined"/>;</p>
+<p num="49">Z представляет собой -SO<sub>2</sub>-;</p>
+<p num="50">Х представляет собой <img file="00000003.tif" he="16" wi="28" img-format="tif" img-content="undefined"/>, где R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н, и R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой СН<sub>3</sub>; или</p>
+<p num="51">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой Н; или</p>
+<p num="52">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой NR<sup>12</sup>R<sup>13</sup>, и каждый из R<sup>12</sup> и R<sup>13</sup>, независимо друг от друга, представляет собой Н;</p>
+<p num="53">R<sup>1</sup> представляет собой Н;</p>
+<p num="54">R<sup>3</sup> представляет собой Н или метил и</p>
+<p num="55">R<sup>5</sup> представляет собой Н, метил, этил, изопропил или трет-бутил.</p>
+<p num="56">Наиболее предпочтительными соединениями группы 1 или группы 1А являются:</p>
+<p num="57"><img file="00000011.tif" he="33" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="58"><img file="00000012.tif" he="33" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="59"><img file="00000013.tif" he="34" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="60"><img file="00000014.tif" he="34" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="61"><img file="00000015.tif" he="35" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="62"><img file="00000016.tif" he="35" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="63"><img file="00000017.tif" he="37" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="64"><img file="00000018.tif" he="36" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="65"><img file="00000019.tif" he="35" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="66"><img file="00000020.tif" he="35" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="67"><img file="00000021.tif" he="36" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="68"><img file="00000022.tif" he="37" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="69"><img file="00000023.tif" he="32" wi="48" img-format="tif" img-content="undefined"/> и</p>
+<p num="70"><img file="00000024.tif" he="32" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="71">или их фармацевтически приемлемая соль.</p>
+<p num="72">Предпочтительное соединение формулы (I) или его фармацевтически приемлемая соль, названное соединением группы 2, представляет собой соединение, соответствующее формуле (I), где:</p>
+<p num="73">R<sup>2</sup> представляет собой <img file="00000006.tif" he="18" wi="29" img-format="tif" img-content="undefined"/>;</p>
+<p num="74">R<sup>4</sup> представляет собой <img file="00000007.tif" he="23" wi="28" img-format="tif" img-content="undefined"/> или <img file="00000008.tif" he="13" wi="38" img-format="tif" img-content="undefined"/>;</p>
+<p num="75">Z представляет собой -С(О)-;</p>
+<p num="76">Х представляет собой <img file="00000003.tif" he="16" wi="28" img-format="tif" img-content="undefined"/>, где R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н, и R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой СН<sub>3</sub>; или</p>
+<p num="77">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой Н; или</p>
+<p num="78">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой NR<sup>12</sup>R<sup>13</sup>, и каждый из R<sup>12</sup> и R<sup>13</sup>, независимо друг от друга, представляет собой Н;</p>
+<p num="79">R<sup>1</sup> представляет собой Н;</p>
+<p num="80">R<sup>3</sup> представляет собой Н или метил и</p>
+<p num="81">R<sup>5</sup> представляет собой Н, метил, этил, изопропил или трет-бутил.</p>
+<p num="82">Предпочтительное соединение формулы (I) или его фармацевтически приемлемая соль, названное соединением группы 2А, представляет собой соединение, соответствующее формуле (I), где:</p>
+<p num="83">R<sup>2</sup> представляет собой <img file="00000006.tif" he="18" wi="29" img-format="tif" img-content="undefined"/>;</p>
+<p num="84">R<sup>4</sup> представляет собой <img file="00000007.tif" he="23" wi="28" img-format="tif" img-content="undefined"/> или <img file="00000008.tif" he="13" wi="38" img-format="tif" img-content="undefined"/>;</p>
+<p num="85">Z представляет собой -SO<sub>2</sub>-;</p>
+<p num="86">Х представляет собой <img file="00000003.tif" he="16" wi="28" img-format="tif" img-content="undefined"/>, где R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н, и R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой СН<sub>3</sub>; или</p>
+<p num="87">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой Н; или</p>
+<p num="88">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой NR<sup>12</sup>R<sup>13</sup>, и каждый из R<sup>12</sup> и R<sup>13</sup>, независимо друг от друга, представляет собой Н;</p>
+<p num="89">R<sup>1</sup> представляет собой Н;</p>
+<p num="90">R<sup>3</sup> представляет собой Н или метил и</p>
+<p num="91">R<sup>5</sup> представляет собой Н, метил, этил, изопропил или трет-бутил.</p>
+<p num="92">Наиболее предпочтительными соединениями группы 2 или группы 2А являются:</p>
+<p num="93"><img file="00000025.tif" he="33" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="94"><img file="00000026.tif" he="33" wi="52" img-format="tif" img-content="undefined"/>,</p>
+<p num="95"><img file="00000027.tif" he="34" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="96"><img file="00000028.tif" he="34" wi="52" img-format="tif" img-content="undefined"/>,</p>
+<p num="97"><img file="00000029.tif" he="35" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="98"><img file="00000030.tif" he="35" wi="52" img-format="tif" img-content="undefined"/>,</p>
+<p num="99"><img file="00000031.tif" he="36" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="100"><img file="00000032.tif" he="37" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="101"><img file="00000033.tif" he="35" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="102"><img file="00000034.tif" he="35" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="103"><img file="00000035.tif" he="36" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="104"><img file="00000036.tif" he="37" wi="52" img-format="tif" img-content="undefined"/>,</p>
+<p num="105"><img file="00000037.tif" he="32" wi="48" img-format="tif" img-content="undefined"/>и</p>
+<p num="106"><img file="00000038.tif" he="32" wi="51" img-format="tif" img-content="undefined"/></p>
+<p num="107">или их фармацевтически приемлемая соль.</p>
+<p num="108">Предпочтительное соединение формулы (I) или его фармацевтически приемлемая соль, названное соединением группы 3, представляет собой соединение, соответствующее формуле (I), где:</p>
+<p num="109">R<sup>2</sup> представляет собой <img file="00000006.tif" he="18" wi="29" img-format="tif" img-content="undefined"/>;</p>
+<p num="110">R<sup>4</sup> представляет собой <img file="00000009.tif" he="20" wi="32" img-format="tif" img-content="undefined"/>, где Q представляет собой Н;</p>
+<p num="111">Z представляет собой -С(О)-;</p>
+<p num="112">Х представляет собой <img file="00000003.tif" he="16" wi="28" img-format="tif" img-content="undefined"/>, где R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н, и R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой СН<sub>3</sub>; или</p>
+<p num="113">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой Н; или</p>
+<p num="114">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой NR<sup>12</sup>R<sup>13</sup>, и каждый из R<sup>12</sup> и R<sup>13</sup>, независимо друг от друга, представляет собой Н;</p>
+<p num="115">R<sup>1</sup> представляет собой Н;</p>
+<p num="116">R<sup>3</sup> представляет собой Н или метил и</p>
+<p num="117">R<sup>5</sup> представляет собой Н, метил, этил, изопропил или трет-бутил.</p>
+<p num="118">Предпочтительное соединение формулы (I) или его фармацевтически приемлемая соль, названное соединением группы 3А, представляет собой соединение, соответствующее формуле (I), где:</p>
+<p num="119">R<sup>2</sup> представляет собой <img file="00000006.tif" he="18" wi="29" img-format="tif" img-content="undefined"/>;</p>
+<p num="120">R<sup>4</sup> представляет собой <img file="00000009.tif" he="20" wi="32" img-format="tif" img-content="undefined"/>, где Q представляет собой Н;</p>
+<p num="121">Z представляет собой -SO<sub>2</sub>-;</p>
+<p num="122">Х представляет собой <img file="00000003.tif" he="16" wi="28" img-format="tif" img-content="undefined"/>, где R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н, и R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой СН<sub>3</sub>; или</p>
+<p num="123">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой Н; или</p>
+<p num="124">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой NR<sup>12</sup>R<sup>13</sup>, и каждый из R<sup>12</sup> и R<sup>13</sup>, независимо друг от друга, представляет собой Н;</p>
+<p num="125">R<sup>1</sup> представляет собой Н;</p>
+<p num="126">R<sup>3</sup> представляет собой Н или метил и</p>
+<p num="127">R<sup>5</sup> представляет собой Н, метил, этил, изопропил или трет-бутил.</p>
+<p num="128">Наиболее предпочтительными соединениями группы 3 или группы 3А являются:</p>
+<p num="129"><img file="00000039.tif" he="34" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="130"><img file="00000040.tif" he="34" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="131"><img file="00000041.tif" he="34" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="132"><img file="00000042.tif" he="35" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="133"><img file="00000043.tif" he="37" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="134"><img file="00000044.tif" he="35" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="135"><img file="00000045.tif" he="36" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="136"><img file="00000046.tif" he="34" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="137"><img file="00000047.tif" he="35" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="138"><img file="00000048.tif" he="37" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="139"><img file="00000049.tif" he="35" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="140"><img file="00000050.tif" he="34" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="141"><img file="00000051.tif" he="32" wi="47" img-format="tif" img-content="undefined"/>,</p>
+<p num="142"><img file="00000052.tif" he="32" wi="47" img-format="tif" img-content="undefined"/> и</p>
+<p num="143"><img file="00000053.tif" he="32" wi="49" img-format="tif" img-content="undefined"/></p>
+<p num="144">или их фармацевтически приемлемая соль.</p>
+<p num="145">Предпочтительное соединение формулы (I) или его фармацевтически приемлемая соль, названное соединением группы 4, представляет собой соединение, соответствующее формуле (I), где:</p>
+<p num="146">R<sup>2</sup> представляет собой <img file="00000007.tif" he="23" wi="28" img-format="tif" img-content="undefined"/> или <img file="00000008.tif" he="13" wi="38" img-format="tif" img-content="undefined"/>;</p>
+<p num="147">R<sup>4</sup> представляет собой <img file="00000006.tif" he="18" wi="29" img-format="tif" img-content="undefined"/>;</p>
+<p num="148">Z представляет собой -С(О)-;</p>
+<p num="149">Х представляет собой <img file="00000003.tif" he="16" wi="28" img-format="tif" img-content="undefined"/>, где R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н, и R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой СН<sub>3</sub>; или</p>
+<p num="150">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой Н; или</p>
+<p num="151">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой NR<sup>12</sup>R<sup>13</sup>, и каждый из R<sup>12</sup> и R<sup>13</sup>, независимо друг от друга, представляет собой Н;</p>
+<p num="152">R<sup>1</sup> представляет собой Н;</p>
+<p num="153">R<sup>3</sup> представляет собой Н или метил и</p>
+<p num="154">R<sup>5</sup> представляет собой Н, метил, этил, изопропил или трет-бутил.</p>
+<p num="155">Предпочтительное соединение формулы (I) или его фармацевтически приемлемая соль, названное соединением группы 4А, представляет собой соединение, соответствующее формуле (I), где:</p>
+<p num="156">R<sup>2</sup> представляет собой <img file="00000007.tif" he="23" wi="28" img-format="tif" img-content="undefined"/> или <img file="00000008.tif" he="13" wi="38" img-format="tif" img-content="undefined"/>;</p>
+<p num="157">R<sup>4</sup> представляет собой <img file="00000006.tif" he="18" wi="29" img-format="tif" img-content="undefined"/>;</p>
+<p num="158">Z представляет собой -SO<sub>2</sub>-;</p>
+<p num="159">Х представляет собой <img file="00000003.tif" he="16" wi="28" img-format="tif" img-content="undefined"/>, где R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н, и R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой СН<sub>3</sub>; или</p>
+<p num="160">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой Н; или</p>
+<p num="161">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой NR<sup>12</sup>R<sup>13</sup>, и каждый из R<sup>12</sup> и R<sup>13</sup>, независимо друг от друга, представляет собой Н;</p>
+<p num="162">R<sup>1</sup> представляет собой Н;</p>
+<p num="163">R<sup>3</sup> представляет собой Н или метил и</p>
+<p num="164">R<sup>5</sup> представляет собой Н, метил, этил, изопропил или трет-бутил.</p>
+<p num="165">Наиболее предпочтительными соединениями группы 4 или группы 4А являются:</p>
+<p num="166"><img file="00000054.tif" he="35" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="167"><img file="00000055.tif" he="32" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="168"><img file="00000056.tif" he="36" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="169"><img file="00000057.tif" he="33" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="170"><img file="00000058.tif" he="35" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="171"><img file="00000059.tif" he="35" wi="53" img-format="tif" img-content="undefined"/>,</p>
+<p num="172"><img file="00000060.tif" he="35" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="173"><img file="00000061.tif" he="35" wi="52" img-format="tif" img-content="undefined"/>,</p>
+<p num="174"><img file="00000062.tif" he="34" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="175"><img file="00000063.tif" he="35" wi="55" img-format="tif" img-content="undefined"/>,</p>
+<p num="176"><img file="00000064.tif" he="36" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="177"><img file="00000065.tif" he="37" wi="52" img-format="tif" img-content="undefined"/>,</p>
+<p num="178"><img file="00000066.tif" he="34" wi="48" img-format="tif" img-content="undefined"/>и</p>
+<p num="179"><img file="00000067.tif" he="31" wi="51" img-format="tif" img-content="undefined"/></p>
+<p num="180">или их фармацевтически приемлемая соль.</p>
+<p num="181">Предпочтительное соединение формулы (I) или его фармацевтически приемлемая соль, названное соединением группы 5, представляет собой соединение, соответствующее формуле (I), где:</p>
+<p num="182">R<sup>2</sup> представляет собой <img file="00000009.tif" he="20" wi="32" img-format="tif" img-content="undefined"/>, где Q представляет собой Н<b>;</b></p>
+<p num="183">R<sup>4</sup> представляет собой <img file="00000006.tif" he="18" wi="29" img-format="tif" img-content="undefined"/>;</p>
+<p num="184">Z представляет собой -С(О)-;</p>
+<p num="185">Х представляет собой <img file="00000003.tif" he="16" wi="28" img-format="tif" img-content="undefined"/>, где R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н, и R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой СН<sub>3</sub>; или</p>
+<p num="186">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой Н; или</p>
+<p num="187">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой NR<sup>12</sup>R<sup>13</sup>, и каждый из R<sup>12</sup> и R<sup>13</sup>, независимо друг от друга, представляет собой Н;</p>
+<p num="188">R<sup>1</sup> представляет собой Н;</p>
+<p num="189">R<sup>3</sup> представляет собой Н или метил и</p>
+<p num="190">R<sup>5</sup> представляет собой Н, метил, этил, изопропил или трет-бутил.</p>
+<p num="191">Предпочтительное соединение формулы (I) или его фармацевтически приемлемая соль, названное соединением группы 5А, представляет собой соединение, соответствующее формуле (I), где:</p>
+<p num="192">R<sup>2</sup> представляет собой <img file="00000009.tif" he="20" wi="32" img-format="tif" img-content="undefined"/>, где Q представляет собой Н<b>;</b></p>
+<p num="193">R<sup>4</sup> представляет собой <img file="00000006.tif" he="18" wi="29" img-format="tif" img-content="undefined"/>;</p>
+<p num="194">Z представляет собой -SO<sub>2</sub>-;</p>
+<p num="195">Х представляет собой <img file="00000003.tif" he="16" wi="28" img-format="tif" img-content="undefined"/>, где R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н, и R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой СН<sub>3</sub>; или</p>
+<p num="196">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой Н; или</p>
+<p num="197">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой NR<sup>12</sup>R<sup>13</sup>, и каждый из R<sup>12</sup> и R<sup>13</sup>, независимо друг от друга, представляет собой Н;</p>
+<p num="198">R<sup>1</sup> представляет собой Н;</p>
+<p num="199">R<sup>3</sup> представляет собой Н или метил и</p>
+<p num="200">R<sup>5</sup> представляет собой Н, метил, этил, изопропил или трет-бутил.</p>
+<p num="201">Наиболее предпочтительными соединениями группы 5 или группы 5А являются:</p>
+<p num="202"><img file="00000068.tif" he="34" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="203"><img file="00000069.tif" he="34" wi="47" img-format="tif" img-content="undefined"/>,</p>
+<p num="204"><img file="00000070.tif" he="36" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="205"><img file="00000071.tif" he="37" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="206"><img file="00000072.tif" he="35" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="207"><img file="00000073.tif" he="37" wi="50" img-format="tif" img-content="undefined"/> и</p>
+<p num="208"><img file="00000074.tif" he="32" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="209">или их фармацевтически приемлемая соль.</p>
+<p num="210">Предпочтительное соединение формулы (I) или его фармацевтически приемлемая соль, названное соединением группы 6, представляет собой соединение, соответствующее формуле (I), где:</p>
+<p num="211">R<sup>2</sup> представляет собой <img file="00000075.tif" he="23" wi="27" img-format="tif" img-content="undefined"/> или <img file="00000076.tif" he="14" wi="40" img-format="tif" img-content="undefined"/>;</p>
+<p num="212">R<sup>4</sup> представляет собой <img file="00000075.tif" he="23" wi="27" img-format="tif" img-content="undefined"/> или <img file="00000076.tif" he="14" wi="40" img-format="tif" img-content="undefined"/>;</p>
+<p num="213">Z представляет собой -С(О)-;</p>
+<p num="214">Х представляет собой <img file="00000077.tif" he="16" wi="28" img-format="tif" img-content="undefined"/>, где R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н, и R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой СН<sub>3</sub>; или</p>
+<p num="215">Х представляет собой <img file="00000078.tif" he="15" wi="31" img-format="tif" img-content="undefined"/>, где Y представляет собой Н; или</p>
+<p num="216">Х представляет собой <img file="00000078.tif" he="15" wi="31" img-format="tif" img-content="undefined"/>, где Y представляет собой NR<sup>12</sup>R<sup>13</sup>, и каждый из R<sup>12</sup> и R<sup>13</sup>, независимо друг от друга, представляет собой Н;</p>
+<p num="217">R<sup>1</sup> представляет собой Н;</p>
+<p num="218">R<sup>3</sup> представляет собой Н или метил и</p>
+<p num="219">R<sup>5</sup> представляет собой Н, метил, этил, изопропил или трет-бутил.</p>
+<p num="220">Предпочтительное соединение формулы (I) или его фармацевтически приемлемая соль, названное соединением группы 6А, представляет собой соединение, соответствующее формуле (I), где:</p>
+<p num="221">R<sup>2</sup> представляет собой <img file="00000075.tif" he="23" wi="27" img-format="tif" img-content="undefined"/> или <img file="00000076.tif" he="14" wi="40" img-format="tif" img-content="undefined"/>;</p>
+<p num="222">R<sup>4</sup> представляет собой <img file="00000075.tif" he="23" wi="27" img-format="tif" img-content="undefined"/> или <img file="00000076.tif" he="14" wi="40" img-format="tif" img-content="undefined"/>;</p>
+<p num="223">Z представляет собой -SO<sub>2</sub>-;</p>
+<p num="224">Х представляет собой <img file="00000077.tif" he="16" wi="28" img-format="tif" img-content="undefined"/>, где R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н, и R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой СН<sub>3</sub>; или</p>
+<p num="225">Х представляет собой <img file="00000078.tif" he="15" wi="31" img-format="tif" img-content="undefined"/>, где Y представляет собой Н; или</p>
+<p num="226">Х представляет собой <img file="00000078.tif" he="15" wi="31" img-format="tif" img-content="undefined"/>, где Y представляет собой NR<sup>12</sup>R<sup>13</sup>, и каждый из R<sup>12</sup> и R<sup>13</sup>, независимо друг от друга, представляет собой Н;</p>
+<p num="227">R<sup>1</sup> представляет собой Н;</p>
+<p num="228">R<sup>3</sup> представляет собой Н или метил и</p>
+<p num="229">R<sup>5</sup> представляет собой Н, метил, этил, изопропил или трет-бутил.</p>
+<p num="230">Наиболее предпочтительными соединениями группы 6 или группы 6А являются:</p>
+<p num="231"><img file="00000079.tif" he="35" wi="46" img-format="tif" img-content="undefined"/>,</p>
+<p num="232"><img file="00000080.tif" he="35" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="233"><img file="00000081.tif" he="32" wi="50" img-format="tif" img-content="undefined"/> и</p>
+<p num="234"><img file="00000082.tif" he="33" wi="50" img-format="tif" img-content="undefined"/></p>
+<p num="235">или их фармацевтически приемлемая соль.</p>
+<p num="236">Предпочтительное соединение формулы (I) или его фармацевтически приемлемая соль, названное соединением группы 7, представляет собой соединение, соответствующее формуле (I), где:</p>
+<p num="237">R<sup>2</sup> представляет собой <img file="00000075.tif" he="23" wi="27" img-format="tif" img-content="undefined"/> или <img file="00000076.tif" he="14" wi="40" img-format="tif" img-content="undefined"/>;</p>
+<p num="238">R<sup>4</sup> представляет собой <img file="00000083.tif" he="20" wi="32" img-format="tif" img-content="undefined"/>, где Q представляет собой Н<b>;</b></p>
+<p num="239">Z представляет собой -С(О)-;</p>
+<p num="240">Х представляет собой <img file="00000077.tif" he="16" wi="28" img-format="tif" img-content="undefined"/>, где R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н, и R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой СН<sub>3</sub>; или</p>
+<p num="241">Х представляет собой <img file="00000078.tif" he="15" wi="31" img-format="tif" img-content="undefined"/>, где Y представляет собой Н; или</p>
+<p num="242">Х представляет собой <img file="00000078.tif" he="15" wi="31" img-format="tif" img-content="undefined"/>, где Y представляет собой NR<sup>12</sup>R<sup>13</sup>, и каждый из R<sup>12</sup> и R<sup>13</sup>, независимо друг от друга, представляет собой Н;</p>
+<p num="243">R<sup>1</sup> представляет собой Н;</p>
+<p num="244">R<sup>3</sup> представляет собой Н или метил и</p>
+<p num="245">R<sup>5</sup> представляет собой Н, метил, этил, изопропил или трет-бутил.</p>
+<p num="246">Предпочтительное соединение формулы (I) или его фармацевтически приемлемая соль, названное соединением группы 7А, представляет собой соединение, соответствующее формуле (I), где:</p>
+<p num="247">R<sup>2</sup> представляет собой <img file="00000075.tif" he="23" wi="27" img-format="tif" img-content="undefined"/> или <img file="00000076.tif" he="14" wi="40" img-format="tif" img-content="undefined"/>;</p>
+<p num="248">R<sup>4</sup> представляет собой <img file="00000083.tif" he="20" wi="32" img-format="tif" img-content="undefined"/>, где Q представляет собой Н<b>;</b></p>
+<p num="249">Z представляет собой -SO<sub>2</sub>-;</p>
+<p num="250">Х представляет собой <img file="00000077.tif" he="16" wi="28" img-format="tif" img-content="undefined"/>, где R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н, и R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой СН<sub>3</sub>; или</p>
+<p num="251">Х представляет собой <img file="00000078.tif" he="15" wi="31" img-format="tif" img-content="undefined"/>, где Y представляет собой Н; или</p>
+<p num="252">Х представляет собой <img file="00000078.tif" he="15" wi="31" img-format="tif" img-content="undefined"/>, где Y представляет собой NR<sup>12</sup>R<sup>13</sup>, и каждый из R<sup>12</sup> и R<sup>13</sup>, независимо друг от друга, представляет собой Н;</p>
+<p num="253">R<sup>1</sup> представляет собой Н;</p>
+<p num="254">R<sup>3</sup> представляет собой Н или метил и</p>
+<p num="255">R<sup>5</sup> представляет собой Н, метил, этил, изопропил или трет-бутил.</p>
+<p num="256">Наиболее предпочтительными соединениями группы 7 или группы 7А являются:</p>
+<p num="257"><img file="00000084.tif" he="35" wi="47" img-format="tif" img-content="undefined"/> и</p>
+<p num="258"><img file="00000085.tif" he="32" wi="51" img-format="tif" img-content="undefined"/></p>
+<p num="259">или их фармацевтически приемлемая соль.</p>
+<p num="260">Предпочтительное соединение формулы (I) или его фармацевтически приемлемая соль, названное соединением группы 8, представляет собой соединение, соответствующее формуле (I), где:</p>
+<p num="261">R<sup>2</sup> представляет собой <img file="00000083.tif" he="20" wi="32" img-format="tif" img-content="undefined"/>, где Q представляет собой Н<b>;</b></p>
+<p num="262">R<sup>4</sup> представляет собой <img file="00000075.tif" he="23" wi="27" img-format="tif" img-content="undefined"/> или <img file="00000076.tif" he="14" wi="40" img-format="tif" img-content="undefined"/>;</p>
+<p num="263">Z представляет собой -С(О)-;</p>
+<p num="264">Х представляет собой <img file="00000077.tif" he="16" wi="28" img-format="tif" img-content="undefined"/>, где R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н, и R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой СН<sub>3</sub>; или</p>
+<p num="265">Х представляет собой <img file="00000078.tif" he="15" wi="31" img-format="tif" img-content="undefined"/>, где Y представляет собой Н; или</p>
+<p num="266">Х представляет собой <img file="00000078.tif" he="15" wi="31" img-format="tif" img-content="undefined"/>, где Y представляет собой NR<sup>12</sup>R<sup>13</sup>, и каждый из R<sup>12</sup> и R<sup>13</sup>, независимо друг от друга, представляет собой Н;</p>
+<p num="267">R<sup>1</sup> представляет собой Н;</p>
+<p num="268">R<sup>3</sup> представляет собой Н или метил и</p>
+<p num="269">R<sup>5</sup> представляет собой Н, метил, этил, изопропил или трет-бутил.</p>
+<p num="270">Предпочтительное соединение формулы (I) или его фармацевтически приемлемая соль, названное соединением группы 8А, представляет собой соединение, соответствующее формуле (I), где:</p>
+<p num="271">R<sup>2</sup> представляет собой <img file="00000083.tif" he="20" wi="32" img-format="tif" img-content="undefined"/>, где Q представляет собой Н<b>;</b></p>
+<p num="272">R<sup>4</sup> представляет собой <img file="00000075.tif" he="23" wi="27" img-format="tif" img-content="undefined"/> или <img file="00000076.tif" he="14" wi="40" img-format="tif" img-content="undefined"/>;</p>
+<p num="273">Z представляет собой -SO<sub>2</sub>-;</p>
+<p num="274">Х представляет собой <img file="00000077.tif" he="16" wi="28" img-format="tif" img-content="undefined"/>, где R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н, и R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой СН<sub>3</sub>; или</p>
+<p num="275">Х представляет собой <img file="00000078.tif" he="15" wi="31" img-format="tif" img-content="undefined"/>, где Y представляет собой Н; или</p>
+<p num="276">Х представляет собой <img file="00000078.tif" he="15" wi="31" img-format="tif" img-content="undefined"/>, где Y представляет собой NR<sup>12</sup>R<sup>13</sup>, и каждый из R<sup>12</sup> и R<sup>13</sup>, независимо друг от друга, представляет собой Н;</p>
+<p num="277">R<sup>1</sup> представляет собой Н;</p>
+<p num="278">R<sup>3</sup> представляет собой Н или метил и</p>
+<p num="279">R<sup>5</sup> представляет собой Н, метил, этил, изопропил или трет-бутил.</p>
+<p num="280">Наиболее предпочтительными соединениями группы 8 или группы 8А являются:</p>
+<p num="281"><img file="00000086.tif" he="34" wi="51" img-format="tif" img-content="undefined"/> и</p>
+<p num="282"><img file="00000087.tif" he="33" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="283">или их фармацевтически приемлемая соль.</p>
+<p num="284">Другое предпочтительное соединение формулы (I), названное группой 9, представляет собой соединение, соответствующее формуле:</p>
+<p num="285"><img file="00000088.tif" he="34" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="286"><img file="00000089.tif" he="34" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="287"><img file="00000090.tif" he="34" wi="52" img-format="tif" img-content="undefined"/>,</p>
+<p num="288"><img file="00000091.tif" he="33" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="289"><img file="00000092.tif" he="33" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="290"><img file="00000093.tif" he="35" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="291"><img file="00000094.tif" he="33" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="292"><img file="00000095.tif" he="34" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="293"><img file="00000096.tif" he="34" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="294"><img file="00000097.tif" he="35" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="295"><img file="00000098.tif" he="34" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="296"><img file="00000099.tif" he="35" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="297"><img file="00000100.tif" he="35" wi="47" img-format="tif" img-content="undefined"/>,</p>
+<p num="298"><img file="00000101.tif" he="34" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="299"><img file="00000102.tif" he="36" wi="47" img-format="tif" img-content="undefined"/>,</p>
+<p num="300"><img file="00000103.tif" he="33" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="301"><img file="00000104.tif" he="34" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="302"><img file="00000105.tif" he="35" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="303"><img file="00000106.tif" he="35" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="304"><img file="00000107.tif" he="35" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="305"><img file="00000108.tif" he="35" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="306"><img file="00000109.tif" he="35" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="307"><img file="00000110.tif" he="35" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="308"><img file="00000111.tif" he="33" wi="52" img-format="tif" img-content="undefined"/>,</p>
+<p num="309"><img file="00000112.tif" he="33" wi="52" img-format="tif" img-content="undefined"/>,</p>
+<p num="310"><img file="00000113.tif" he="35" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="311"><img file="00000114.tif" he="34" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="312"><img file="00000115.tif" he="34" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="313"><img file="00000116.tif" he="37" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="314"><img file="00000117.tif" he="36" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="315"><img file="00000118.tif" he="36" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="316"><img file="00000119.tif" he="36" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="317"><img file="00000120.tif" he="35" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="318"><img file="00000121.tif" he="35" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="319"><img file="00000122.tif" he="35" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="320"><img file="00000123.tif" he="35" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="321"><img file="00000124.tif" he="35" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="322"><img file="00000125.tif" he="36" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="323"><img file="00000126.tif" he="35" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="324"><img file="00000127.tif" he="35" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="325"><img file="00000128.tif" he="36" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="326"><img file="00000129.tif" he="36" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="327"><img file="00000130.tif" he="36" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="328"><img file="00000131.tif" he="36" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="329"><img file="00000132.tif" he="36" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="330"><img file="00000133.tif" he="36" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="331"><img file="00000134.tif" he="37" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="332"><img file="00000135.tif" he="36" wi="52" img-format="tif" img-content="undefined"/>,</p>
+<p num="333"><img file="00000136.tif" he="35" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="334"><img file="00000137.tif" he="35" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="335"><img file="00000138.tif" he="35" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="336"><img file="00000139.tif" he="37" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="337"><img file="00000140.tif" he="35" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="338"><img file="00000141.tif" he="33" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="339"><img file="00000142.tif" he="33" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="340"><img file="00000143.tif" he="34" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="341"><img file="00000144.tif" he="32" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="342"><img file="00000145.tif" he="32" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="343"><img file="00000146.tif" he="31" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="344"><img file="00000147.tif" he="32" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="345"><img file="00000148.tif" he="31" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="346"><img file="00000149.tif" he="33" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="347"><img file="00000150.tif" he="32" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="348"><img file="00000151.tif" he="32" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="349"><img file="00000152.tif" he="35" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="350"><img file="00000153.tif" he="33" wi="54" img-format="tif" img-content="undefined"/>,</p>
+<p num="351"><img file="00000154.tif" he="32" wi="53" img-format="tif" img-content="undefined"/>,</p>
+<p num="352"><img file="00000155.tif" he="33" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="353"><img file="00000156.tif" he="35" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="354"><img file="00000157.tif" he="35" wi="50" img-format="tif" img-content="undefined"/> и</p>
+<p num="355"><img file="00000158.tif" he="33" wi="51" img-format="tif" img-content="undefined"/></p>
+<p num="356">или его фармацевтически приемлемую соль.</p>
+<p num="357">Фармацевтическая композиция, содержащая соединение непосредственно вышеупомянутой группы соединений с фармацевтически приемлемым носителем, является предпочтительной.</p>
+<p num="358">Предпочтительным соединением группы 9 является соединение группы 9А, соответствующее формуле:</p>
+<p num="359"><img file="00000159.tif" he="34" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="360"><img file="00000160.tif" he="33" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="361"><img file="00000161.tif" he="33" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="362"><img file="00000162.tif" he="33" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="363"><img file="00000163.tif" he="35" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="364"><img file="00000164.tif" he="32" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="365"><img file="00000165.tif" he="34" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="366"><img file="00000166.tif" he="34" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="367"><img file="00000167.tif" he="35" wi="51" img-format="tif" img-content="undefined"/>,</p>
+<p num="368"><img file="00000168.tif" he="35" wi="50" img-format="tif" img-content="undefined"/>,</p>
+<p num="369"><img file="00000169.tif" he="35" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="370"><img file="00000170.tif" he="34" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="371"><img file="00000171.tif" he="37" wi="49" img-format="tif" img-content="undefined"/> и</p>
+<p num="372"><img file="00000172.tif" he="36" wi="49" img-format="tif" img-content="undefined"/></p>
+<p num="373">или его фармацевтически приемлемая соль.</p>
+<p num="374">Фармацевтическая композиция, содержащая соединение непосредственно вышеупомянутой группы соединений с фармацевтически приемлемым носителем, является предпочтительной.</p>
+<p num="375">Предпочтительным соединением группы 9А является соединение группы 9В, соответствующее формуле:</p>
+<p num="376"><img file="00000173.tif" he="33" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="377"><img file="00000174.tif" he="34" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="378"><img file="00000175.tif" he="35" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="379"><img file="00000176.tif" he="35" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="380"><img file="00000177.tif" he="34" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="381"><img file="00000178.tif" he="35" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="382"><img file="00000179.tif" he="35" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="383"><img file="00000180.tif" he="37" wi="48" img-format="tif" img-content="undefined"/> и</p>
+<p num="384"><img file="00000181.tif" he="35" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="385">или его фармацевтически приемлемая соль.</p>
+<p num="386">Фармацевтическая композиция, содержащая соединение непосредственно вышеупомянутой группы соединений с фармацевтически приемлемым носителем, является предпочтительной.</p>
+<p num="387">Предпочтительным соединением группы 9А является соединение группы 9С, соответствующее формуле:</p>
+<p num="388"><img file="00000182.tif" he="33" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="389"><img file="00000183.tif" he="34" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="390"><img file="00000184.tif" he="35" wi="49" img-format="tif" img-content="undefined"/>,</p>
+<p num="391"><img file="00000185.tif" he="34" wi="47" img-format="tif" img-content="undefined"/> и</p>
+<p num="392"><img file="00000186.tif" he="36" wi="46" img-format="tif" img-content="undefined"/></p>
+<p num="393">или его фармацевтически приемлемая соль.</p>
+<p num="394">Фармацевтическая композиция, содержащая соединение непосредственно вышеупомянутой группы соединений с фармацевтически приемлемым носителем, является предпочтительной.</p>
+<p num="395">Предпочтительным соединением группы 9А является соединение группы 9D, соответствующее формуле:</p>
+<p num="396"><img file="00000187.tif" he="34" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="397"><img file="00000188.tif" he="35" wi="48" img-format="tif" img-content="undefined"/> и</p>
+<p num="398"><img file="00000189.tif" he="36" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="399">или его фармацевтически приемлемая соль.</p>
+<p num="400">Фармацевтическая композиция, содержащая соединение непосредственно вышеупомянутой группы соединений с фармацевтически приемлемым носителем, является предпочтительной.</p>
+<p num="401">Предпочтительным соединением группы 9D является соединение группы 9E, соответствующее формуле:</p>
+<p num="402"><img file="00000190.tif" he="35" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="403">или его фармацевтически приемлемая соль.</p>
+<p num="404">Фармацевтическая композиция, содержащая соединение непосредственно вышеупомянутой группы соединений с фармацевтически приемлемым носителем, является предпочтительной.</p>
+<p num="405">Предпочтительным соединением группы 9 является соединение группы 9F, соответствующее формуле:</p>
+<p num="406"><img file="00000191.tif" he="34" wi="49" img-format="tif" img-content="undefined"/> и</p>
+<p num="407"><img file="00000192.tif" he="35" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="408">или его фармацевтически приемлемая соль.</p>
+<p num="409">Фармацевтическая композиция, содержащая соединение непосредственно вышеупомянутой группы соединений с фармацевтически приемлемым носителем, является предпочтительной.</p>
+<p num="410">Предпочтительным соединением группы 9 является соединение группы 9G, соответствующее формуле:</p>
+<p num="411"><img file="00000193.tif" he="32" wi="48" img-format="tif" img-content="undefined"/>,</p>
+<p num="412"><img file="00000194.tif" he="34" wi="48" img-format="tif" img-content="undefined"/> и</p>
+<p num="413"><img file="00000195.tif" he="33" wi="51" img-format="tif" img-content="undefined"/></p>
+<p num="414">или его фармацевтически приемлемая соль.</p>
+<p num="415">Фармацевтическая композиция, содержащая соединение непосредственно вышеупомянутой группы соединений с фармацевтически приемлемым носителем, является предпочтительной.</p>
+<p num="416">Во втором аспекте настоящее изобретение описывает соединение формулы (II):</p>
+<p num="417"><img file="00000196.tif" he="64" wi="34" img-format="tif" img-content="undefined"/></p>
+<p num="418">где Х представляет собой</p>
+<p num="419"><img file="00000003.tif" he="16" wi="28" img-format="tif" img-content="undefined"/>, <img file="00000004.tif" he="19" wi="34" img-format="tif" img-content="undefined"/> или <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>;</p>
+<p num="420">Y представляет собой Н или NR<sup>12</sup>R<sup>13</sup>;</p>
+<p num="421">Z представляет собой -С(О)- или -SO<sub>2</sub>-;</p>
+<p num="422">n равно, независимо друг от друга, для каждого случая, 1, 2, 3, 4, 5, 6, 7 или 8;</p>
+<p num="423">R<sup>1</sup> и R<sup>3</sup> каждый, независимо друг от друга, для каждого случая, представляет собой Н или (С<sub>1</sub>-С<sub>4</sub>)алкил;</p>
+<p num="424">R<sup>2</sup> и R<sup>4</sup>, каждый, независимо друг от друга, для каждого случая, представляет собой</p>
+<p num="425"><img file="00000006.tif" he="18" wi="29" img-format="tif" img-content="undefined"/>, <img file="00000007.tif" he="23" wi="28" img-format="tif" img-content="undefined"/>, <img file="00000008.tif" he="13" wi="38" img-format="tif" img-content="undefined"/> или <img file="00000009.tif" he="20" wi="32" img-format="tif" img-content="undefined"/>;</p>
+<p num="426">R<sup>5</sup> представляет собой Н или (С<sub>1</sub>-С<sub>6</sub>)алкилгалоген;</p>
+<p num="427">R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, для каждого случая, представляет собой (С<sub>1</sub>-С<sub>6</sub>)алкил или замещенный (С<sub>1</sub>-С<sub>6</sub>)алкил;</p>
+<p num="428">R<sup>6</sup>, R<sup>7</sup>, R<sup>10</sup>, R<sup>11</sup>, R<sup>12</sup> и R<sup>13</sup> каждый, независимо друг от друга, для каждого случая, представляет собой Н, (С<sub>1</sub>-С<sub>6</sub>)алкил или замещенный (С<sub>1</sub>-С<sub>6</sub>)алкил; и</p>
+<p num="429">Q представляет собой Н или(С<sub>1</sub>-С<sub>4</sub>)алкил;</p>
+<p num="430">при условии, что каждый из R<sup>2</sup> и R<sup>4</sup> не является <img file="00000009.tif" he="20" wi="32" img-format="tif" img-content="undefined"/> в указанном соединении;</p>
+<p num="431">или его фармацевтически приемлемая соль.</p>
+<p num="432">Предпочтительное соединение формулы (II) или его фармацевтически приемлемая соль, названное соединением группы 10, представляет собой соединение, соответствующее формуле (II), где:</p>
+<p num="433">R<sup>2</sup> представляет собой <img file="00000006.tif" he="18" wi="29" img-format="tif" img-content="undefined"/>;</p>
+<p num="434">R<sup>4</sup> представляет собой <img file="00000009.tif" he="20" wi="32" img-format="tif" img-content="undefined"/>, где Q представляет собой Н<b>;</b></p>
+<p num="435">Z представляет собой -С(О)-;</p>
+<p num="436">Х представляет собой <img file="00000003.tif" he="16" wi="28" img-format="tif" img-content="undefined"/>, где R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н, и R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой СН<sub>3</sub>; или</p>
+<p num="437">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой Н; или</p>
+<p num="438">Х представляет собой <img file="00000005.tif" he="14" wi="32" img-format="tif" img-content="undefined"/>, где Y представляет собой NR<sup>12</sup>R<sup>13</sup>, и каждый из R<sup>12</sup> и R<sup>13</sup>, независимо друг от друга, представляет собой Н;</p>
+<p num="439">R<sup>1</sup> представляет собой Н;</p>
+<p num="440">R<sup>3</sup> представляет собой Н или метил и</p>
+<p num="441">R<sup>5</sup> представляет собой Н, метил, этил, изопропил или трет-бутил.</p>
+<p num="442">Наиболее предпочтительным соединением группы 10, названным группой 10А, является:</p>
+<p num="443"><img file="00000197.tif" he="39" wi="52" img-format="tif" img-content="undefined"/></p>
+<p num="444">или его фармацевтически приемлемая соль.</p>
+<p num="445">Фармацевтическая композиция, содержащая соединение непосредственно вышеупомянутой группы соединений с фармацевтически приемлемым носителем, является предпочтительной.</p>
+<p num="446">Соединения изобретения являются активными в отношении GHS-рецептора. Соединения могут связываться с рецептором и предпочтительно стимулировать рецепторную активность, таким образом, соединение изобретения полезно в качестве функционального аналога грелина и как инструмент исследований и/или как терапевтический агент. Применения в качестве инструмента исследований обычно включают использование соединения изобретения и наличие GHS-рецептора или его фрагмента. GHS-рецептор может быть представлен в различных окружающих условиях, таких как млекопитающее существо, целая клетка или фрагмент клеточной мембраны. Примеры применения в качестве инструмента исследований включают скрининг соединений, активных к GHS-рецептору, определение наличия GHS-рецептора в образце или препарате и проверку роли или эффекта грелина.</p>
+<p num="447">Один аспект изобретения показывает способ определения способности соединения связываться с GHS-рецептором, указанный способ включает стадию измерения способности соединения к эффективному связыванию, для соединения, соответствующего формуле (I) или формуле (II), или соответствующего какой-либо одной из групп 1, 1А, 2, 2А, 3, 3А, 4, 4А, 5, 5А, 6, 6А, 7, 7А, 8, 8А, 9, 9А, 9B, 9C, 9D, 9E, 9F, 9G, 10 и 10A к указанному рецептору, к фрагменту указанного рецептора, к полипептиду, включающему в себя указанный фрагмент указанного рецептора, или к производному указанного полипептида.</p>
+<p num="448">Другой аспект изобретения показывает способ скрининга агонистов грелина и/или антагонистов грелина. Скрининг агонистов грелина может осуществляться, например, посредством использования соединения, соответствующего формуле (I) или формуле (II), или соответствующего какой-либо одной из групп 1, 1А, 2, 2А, 3, 3А, 4, 4А, 5, 5А, 6, 6А, 7, 7А, 8, 8А, 9, 9А, 9B, 9C, 9D, 9E, 9F, 9G, 10 и 10A, или их фармацевтически приемлемой соли в эксперименте конкурентного связывания с контрольными соединениями. Скрининг антагонистов грелина может осуществляться, например, посредством использования соединения, соответствующего формуле (I) или формуле (II), или соответствующего какой-либо одной из групп 1, 1А, 2, 2А, 3, 3А, 4, 4А, 5, 5А, 6, 6А, 7, 7А, 8, 8А, 9, 9А, 9B, 9C, 9D, 9E, 9F, 9G, 10 и 10A, или их фармацевтически приемлемой соли для вызывания активности GHS-рецептора, и затем измерением способности контрольного соединения изменять активность GHS-рецептора.</p>
+<p num="449">Агонисты грелина могут использоваться для достижения лечебного эффекта у субъекта. Например, грелин вызывает высвобождение гормона роста из первичной культуры питуицитов дозазависимым образом, без стимуляции высвобождения других питуицитных гормонов. Грелин, инъецированный внутривенно анестезированным крысам, стимулирует пульсирующее высвобождение гормона роста (Kojima et al., Nature, (1999), 402: 656-60). В одном аспекте изобретение показывает способ достижения лечебного эффекта у субъекта, включающий в себя введение указанному субъекту эффективного количества соединения, соответствующего формуле (I) или формуле (II), или соответствующего какой-либо одной из групп 1, 1А, 2, 2А, 3, 3А, 4, 4А, 5, 5А, 6, 6А, 7, 7А, 8, 8А, 9, 9А, 9B, 9C, 9D, 9E, 9F, 9G, 10 и 10A, или их фармацевтически приемлемой соли, в котором указанное количество эффективно для вызывания лечебного эффекта при содействии лечению или содействующему профилактике заболевания, недомогания или патологического состояния. То, что подразумевается под «при содействии лечению», представляет собой либо излечение определенного заболевания или расстройства, либо уменьшение тяжести симптомов определенного заболевания или расстройства. То, что подразумевается под «содействующему профилактике», представляет собой либо уменьшение вероятности возникновения определенного заболевания или расстройства, либо уменьшение тяжести симптомов определенного заболевания или расстройства.</p>
+<p num="450">В другом аспекте изобретение показывает способ стимуляции секреции гормона роста у субъекта в случае необходимости такой стимуляции, включающий в себя стадию введения субъекту эффективного количества агониста грелина, соответствующего формуле (I) или формуле (II), или соответствующего какой-либо одной из групп 1, 1А, 2, 2А, 3, 3А, 4, 4А, 5, 5А, 6, 6А, 7, 7А, 8, 8А, 9, 9А, 9B, 9C, 9D, 9E, 9F, 9G, 10 и 10A, или их фармацевтически приемлемой соли, в котором указанное эффективное количество представляет собой, по меньшей мере, количество, достаточное для вызывания заметного возрастания секреции гормона роста и, предпочтительно, представляет собой количество, достаточное для достижения лечебного эффекта у пациента.</p>
+<p num="451">В одном примере осуществления изобретения непосредственно вышеупомянутого аспекта указанная стимуляция секреции гормона роста определяется в лечении состояния дефицита гормона роста. Неэксклюзивный перечень примеров, в которых такой лечебный эффект может быть определен, мог бы включать: лечение состояния дефицита гормона роста, увеличение мышечной массы и/или плотности кости, преодоление половой дисфункции, способствование приросту массы тела, поддержание идеальной массы тела, поддержание физического функционирования, восстановление физической функции и/или повышение ослабленного аппетита. Прибавление веса, поддержание постоянной массы тела и/или повышение аппетита особенно полезно для субъектов, имеющих заболевание или расстройство или перенесших медицинское лечебное воздействие, сопровождающееся потерей веса. Более предпочтительно, указанные заболевания или нарушения, сопровождающиеся потерей веса, представляют собой, но не ограничиваются только ими, анорексию, булимию, кахексию, упадок сил при СПИДе и/или слабость в пожилом возрасте. Также предпочтительно, указанные медицинские лечебные воздействия, сопровождающиеся потерей веса, включают, но не ограничиваются только ими, химиотерапию, лучевую терапию, лишение подвижности (например, вынужденный постельный режим) и/или диализ.</p>
+<p num="452">Антагонисты грелина также могут применяться для достижения лечебного эффекта у пациента. В другом аспекте изобретение показывает способ подавления секреции гормона роста у субъекта в случае необходимости такого подавления, включающий в себя стадию введения субъекту эффективного количества антагониста грелина, соответствующего формуле (I) или формуле (II), или соответствующего какой-либо одной из групп 1, 1А, 2, 2А, 3, 3А, 4, 4А, 5, 5А, 6, 6А, 7, 7А, 8, 8А, 9, 9А, 9B, 9C, 9D, 9E, 9F, 9G, 10 и 10A, или их фармацевтически приемлемой соли, в котором указанное эффективное количество представляет собой, по меньшей мере, количество, достаточное для вызывания заметного возрастания секреции гормона роста, и, предпочтительно, представляет собой количество, достаточное для достижения лечебного эффекта у пациента.</p>
+<p num="453">В одном примере осуществления изобретения непосредственно вышеупомянутого аспекта указанное подавление секреции гормона роста показано для лечения заболевания или патологического состояния, характеризующегося избыточной секрецией гормона роста, для облегчения потери веса, для снижения чрезмерного аппетита, для поддержания требуемого веса, для лечения ожирения, для коррекционной терапии диабетического состояния, включая осложнения вследствие такового, такие, так ретинопатия и/или для профилактики сердечно-сосудистых нарушений.</p>
+<p num="454">В предпочтительном примере осуществления изобретения непосредственно вышеупомянутого аспекта указанный избыточный вес является фактором, содействующим заболеванию или патологическому состоянию, включая, но не ограничиваясь только этими примерами, ожирение, гипертонию, диабет, дислипидемию, сердечно-сосудистое заболевание, желчные камни, остеоартрит, синдром Прадера-Вилли, артрит и некоторые виды рака. Более предпочтительно, указанное облегчение потери веса снижает вероятность таких заболеваний или патологических состояний. Также более предпочтительно, указанное облегчение потери веса включает, по меньшей мере, часть лечения таких заболеваний или патологических состояний.</p>
+<p num="455">И еще в дополнительном более предпочтительном примере осуществления изобретения, соединения изобретения могут также применяться для того, чтобы вызвать желудочно-кишечную сократительную способность у нуждающихся в этом субъектов путем введения субъекту, страдающему от такого патологического состояния, эффективного количества одного или нескольких соединений, соответствующих формуле (I) или (II), или соответствующих группам 1, 1А, 2, 2А, 3, 3А, 4, 4А, 5, 5А, 6, 6А, 7, 7А, 8, 8А, 9, 9А, 9B, 9C, 9D, 9E, 9F, 9G, 10 и 10A, или их фармацевтически приемлемой соли, в котором указанное эффективное количество представляет собой, по меньшей мере, количество, достаточное для обеспечения желудочно-кишечной сократительной способности, и, предпочтительно, представляет собой количество, достаточное для достижения лечебного эффекта у пациента.</p>
+<p num="456">В предпочтительном примере осуществления изобретения непосредственно предыдущего способа указанное понижение желудочно-кишечной сократительной способности создается у субъектов в результате послеоперационной кишечной непроходимости, пареза желудка, язвенного колита или воспалительного заболевания кишечника, например болезни Крона.</p>
+<p num="457">В другом более предпочтительном примере осуществления изобретения непосредственно предыдущего способа указанный парез желудка является сопутствующим приступу диабета или хроническому диабетическому состоянию.</p>
+<p num="458">Другие отличительные признаки и преимущества настоящего изобретения очевидны из дополнительных описаний, предоставленных в этом документе, включающих различные примеры. Предоставленные примеры иллюстрируют различные компоненты и методологию, полезные в практическом осуществлении настоящего изобретения. Примеры не ограничивают формулу изобретения. Основываясь на настоящем раскрытии изобретения, специалист в данной области техники может идентифицировать и использовать другие компоненты и методологию, полезные для практического осуществления настоящего изобретения.</p>
+<p num="459"><u>Подробное описание изобретения</u></p>
+<p num="460">Настоящее изобретение описывает пептидил-аналоги, активные к GHS-рецептору. Аналоги изобретения могут связываться с GHS-рецептором и, предпочтительно, вызывать передачу сигнала.</p>
+<p num="461">Номенклатура, используемая для определения пептидов, является обычно используемой в данной области техники, где аминогруппа N-конца обозначается слева и карбоксильная группа С-конца обозначается справа, т.е. занимают определенное положение в структуре -NH-C(R)(R')-CO-, где R и R' каждый, независимо друг от друга, представляет собой водород или боковую цепь аминокислоты (например, R=СН<sub>3</sub> и R'=Н для Ala) или R и R' могут соединяться с образованием кольцевой системы. В случае когда аминокислота имеет изомерную форму, она является L-формой для той аминокислоты, которая представлена, если прямо не указано иного. Если не определено иначе, все технические и научные термины, используемые в данном документе, имеют такое же значение, как обычно понимается любым обычным специалистом в данной области техники, к которой относится это изобретение. Все публикации, патентные заявки, патенты и другие ссылки, упомянутые в данном документе, включены как ссылки.</p>
+<p num="462"><b>Номенклатура и сокращения</b></p>
+<p num="463">
+<tables num="2"><table frame="all">
+<tgroup cols="2" rowsep="1" colsep="1">
+<colspec colname="c0" colwidth="41mm"/>
+<colspec colname="c1" colwidth="122mm"/>
+<tbody>
+<row>
+<entry align="center" rowsep="1" colsep="1"><b>Символ</b></entry>
+<entry align="center" rowsep="1" colsep="0"><b>Значение</b></entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">Aib</entry>
+<entry align="center" rowsep="1" colsep="0">α-аминоизобутановая кислота</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">D-Bal</entry>
+<entry align="center" rowsep="1" colsep="0">D-3-бензотиенилаланин со структурой:<br/><img file="00000198.tif" he="33" wi="43" img-format="tif" img-content="undefined"/></entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">DgTrp</entry>
+<entry align="center" rowsep="1" colsep="0">представлен структурой:<br/><img file="00000199.tif" he="39" wi="28" img-format="tif" img-content="undefined"/></entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">DgTrp-H</entry>
+<entry align="center" rowsep="1" colsep="0">представлен структурой:<br/><img file="00000200.tif" he="39" wi="31" img-format="tif" img-content="undefined"/></entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">DgTrp-CHO</entry>
+<entry align="center" rowsep="1" colsep="0">представлен структурой:<br/><img file="00000201.tif" he="34" wi="29" img-format="tif" img-content="undefined"/></entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">DgTrp-C(O)CH<sub>3</sub></entry>
+<entry align="center" rowsep="1" colsep="0">представлен структурой:<br/><img file="00000202.tif" he="40" wi="40" img-format="tif" img-content="undefined"/></entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">DgTrp-SO<sub>2</sub>CH<sub>3</sub></entry>
+<entry align="center" rowsep="1" colsep="0">представлен структурой:<br/><img file="00000203.tif" he="41" wi="37" img-format="tif" img-content="undefined"/></entry>
+</row>
+<row>
+<entry align="center" rowsep="0" colsep="1">D-Trp</entry>
+<entry align="center" rowsep="0" colsep="0">D-триптофан</entry>
+</row>
+</tbody></tgroup></table></tables>
+
+</p>
+<p num="464"><b>Известные другие сокращения, используемые в данном документе, определены следующим образом:</b></p>
+<p num="465">
+<tables num="3"><table frame="all">
+<tgroup cols="2" rowsep="1" colsep="1">
+<colspec colname="c0" colwidth="29mm"/>
+<colspec colname="c1" colwidth="135mm"/>
+<tbody>
+<row>
+<entry align="center" rowsep="1" colsep="1">Ac</entry>
+<entry align="center" rowsep="1" colsep="0">ацетил</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">AcOEt</entry>
+<entry align="center" rowsep="1" colsep="0">этилацетат</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">Boc</entry>
+<entry align="center" rowsep="1" colsep="0">трет-бутилоксикарбонил</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">BSA</entry>
+<entry align="center" rowsep="1" colsep="0">бычий сывороточный альбумин</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">BTIB</entry>
+<entry align="center" rowsep="1" colsep="0">бис(трифторацетокси)йодбензол</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">Bzl</entry>
+<entry align="center" rowsep="1" colsep="0">бензил</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">DCM</entry>
+<entry align="center" rowsep="1" colsep="0">дихлорметан</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">DIC</entry>
+<entry align="center" rowsep="1" colsep="0">N,N-диизопропилкарбодиимид</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">DIEA</entry>
+<entry align="center" rowsep="1" colsep="0">диизопропилэтиламин</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">Dmab</entry>
+<entry align="center" rowsep="1" colsep="0">4-{N-(1-(4,4-диметил-2,6-диоксоциклогексилиден)-3-метилбутил)амино}бензил</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">DMAP</entry>
+<entry align="center" rowsep="1" colsep="0">4-(диметиламино)пиридин</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">ДМФА</entry>
+<entry align="center" rowsep="1" colsep="0">диметилформамид</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">DNP</entry>
+<entry align="center" rowsep="1" colsep="0">2,4-динитрофенил</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">EDC</entry>
+<entry align="center" rowsep="1" colsep="0">1-[3-(диметиламино)пропил]-3-этилкарбодиимид гидрохлорид</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">ЭДТА</entry>
+<entry align="center" rowsep="1" colsep="0">этилендиаминтетрауксусная кислота</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">Fmoc</entry>
+<entry align="center" rowsep="1" colsep="0">флуоренилметилоксикарбонил</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">HBTU</entry>
+<entry align="center" rowsep="1" colsep="0">2-(1Н-бензотриазол-1-ил)-1,1,3,3-тетраметилуронийгексафторфосфат</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">cHex</entry>
+<entry align="center" rowsep="1" colsep="0">циклогексил</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">HOAT</entry>
+<entry align="center" rowsep="1" colsep="0">О-(7-азабензотриазол-1-ил)-1,1,3,3- тетраметилуронийгексафторфосфат</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">HOBt</entry>
+<entry align="center" rowsep="1" colsep="0">1-гидроксибензотриазол</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">HOSu</entry>
+<entry align="center" rowsep="1" colsep="0">N-гидроксисукцинимид</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">ВЭЖХ</entry>
+<entry align="center" rowsep="1" colsep="0">высокоэффективная жидкостная хроматография</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">Mesh</entry>
+<entry align="center" rowsep="1" colsep="0">гидрат морфолинэтансульфоновой кислоты</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">Mmt</entry>
+<entry align="center" rowsep="1" colsep="0">4-метокситритил</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">NMP</entry>
+<entry align="center" rowsep="1" colsep="0">N-метилпирролидон</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">Pbf</entry>
+<entry align="center" rowsep="1" colsep="0">2,2,4,6,7-пентаметилдигидробензофуран-5-сульфонил</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">tBu</entry>
+<entry align="center" rowsep="1" colsep="0">трет-бутил</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">TIS</entry>
+<entry align="center" rowsep="1" colsep="0">триизопропилсилан</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">TOS</entry>
+<entry align="center" rowsep="1" colsep="0">тозил</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">Trt</entry>
+<entry align="center" rowsep="1" colsep="0">тритил</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">ТФА</entry>
+<entry align="center" rowsep="1" colsep="0">трифторуксусная кислота</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">TFFH</entry>
+<entry align="center" rowsep="1" colsep="0">тетраметилфторфорамидинийгексафторфосфат</entry>
+</row>
+<row>
+<entry align="center" rowsep="0" colsep="1">Z</entry>
+<entry align="center" rowsep="0" colsep="0">бензилоксикарбонил</entry>
+</row>
+</tbody></tgroup></table></tables>
+
+</p>
+<p num="466">«Алкил» относится к углеводородной группе, содержащей один или более атомов углерода, в которой в случае присутствия нескольких атомов углерода они соединены одинарными связями. Алкильная углеводородная группа может представлять собой прямую цепь или содержать одно или несколько ответвлений или циклических групп.</p>
+<p num="467">«Замещенный алкил» относится к алкилу, в котором один или более водородных атомов углеводородной группы замещены одним или большим числом заместителей, выбранных из группы, состоящей из галогена (например, фтор, хлор, бром и йод), -ОН, -CN, -SH, -NH<sub>2</sub>, -NHCH<sub>3</sub>, -NO<sub>2</sub>, -CF<sub>3</sub>, -OCH<sub>3</sub>, -OCF<sub>3</sub>, -(CH<sub>2</sub>)<sub>0-4</sub>-COOH и -С<sub>1-2</sub> алкила, который сам необязательно может быть замещен одним или большим числом независимых друг от друга заместителей, выбранных из группы, состоящей из галогена (например, фтор, хлор, бром и йод), -ОН, -CN, -SH, -NH<sub>2</sub>, -NHCH<sub>3</sub>, -NO<sub>2</sub>, -CF<sub>3</sub>, -OCH<sub>3</sub>, -OCF<sub>3</sub>, -(CH<sub>2</sub>)<sub>0-4</sub>-COOH. В различных примерах осуществления изобретения присутствуют от одного до четырех заместителей. Присутствие -(CH<sub>2</sub>)<sub>0-4</sub>-COOH приводит к получению алкильной кислоты. Не ограничивающие объем изобретения примеры алкильных кислот, содержащих или состоящих из -(CH<sub>2</sub>)<sub>0-4</sub>-COOH, включают 2-норборнануксусную кислоту, трет-масляную кислоту, 3-циклопентилпропионовую кислоту и им подобные.</p>
+<p num="468">«Гетероалкил» относится к алкилу, в котором один или более атомов углерода в углеводородной группе замещены одной или большим числом нижеследующих групп: амино, амидо, -О- или карбонил. В различных примерах осуществления изобретения присутствуют один или несколько гетероатомов.</p>
+<p num="469">«Замещенный гетероалкил» относится к гетероалкилу, в котором один или более водородных атомов углеводородной группы замещены одним или более заместителей, выбранных из группы, состоящей из галогена (например, фтор, хлор, бром и йод), -ОН, -CN, -SH, -NH<sub>2</sub>, -NHCH<sub>3</sub>, -NO<sub>2</sub>, -CF<sub>3</sub>, -OCH<sub>3</sub>, -OCF<sub>3</sub>, -(CH<sub>2</sub>)<sub>0-4</sub>-COOH и -С<sub>1-2</sub> алкила, который сам необязательно может быть замещен одним или большим числом независимых друг от друга заместителей, выбранных из группы, состоящей из галогена (например, фтор, хлор, бром и йод), -ОН, -CN, -SH, -NH<sub>2</sub>, -NHCH<sub>3</sub>, -NO<sub>2</sub>, -CF<sub>3</sub>, -OCH<sub>3</sub>, -OCF<sub>3</sub>, -(CH<sub>2</sub>)<sub>0-4</sub>-COOH. В различных примерах осуществления изобретения присутствуют от одного до четырех заместителей.</p>
+<p num="470">«Алкенил» относится к углеводородной группе, составленной из двух или большего числа атомов углерода, где присутствует одна или более углерод-углеродных двойных связей. Алкенильная углеводородная группа может представлять собой прямую цепь или содержать одно или несколько ответвлений или циклических групп.</p>
+<p num="471">«Замещенный алкенил» относится к алкенилу, в котором один или более водородных атомов углеводородной группы замещены одним или большим числом заместителей, выбранных из группы, состоящей из галогена (например, фтор, хлор, бром и йод), -ОН, -CN, -SH, -NH<sub>2</sub>, -NHCH<sub>3</sub>, -NO<sub>2</sub>, -CF<sub>3</sub>, -OCH<sub>3</sub>, -OCF<sub>3</sub>, -(CH<sub>2</sub>)<sub>0-4</sub>-COOH и -С<sub>1-2</sub> алкила, который сам необязательно может быть замещен одним или большим числом независимых друг от друга заместителей, выбранных из группы, состоящей их галогена (например, фтор, хлор, бром и йод), -ОН, -CN, -SH, -NH<sub>2</sub>, -NHCH<sub>3</sub>, -NO<sub>2</sub>, -CF<sub>3</sub>, -OCH<sub>3</sub>, -OCF<sub>3</sub>, -(CH<sub>2</sub>)<sub>0-4</sub>-COOH. В различных примерах осуществления изобретения присутствуют от одного до четырех заместителей.</p>
+<p num="472">«Алкинил» относится к углеводородной группе, составленной из двух или большего числа атомов углерода, где присутствует одна или более углерод-углеродных тройных связей. Алкинильная углеводородная группа может представлять собой прямую цепь или содержать одно или несколько ответвлений или циклических групп.</p>
+<p num="473">«Замещенный алкинил» относится к алкинилу, в котором один или более водородных атомов углеводородной группы замещены одним или большим числом заместителей, выбранных из группы, состоящей их галогена (например, фтор, хлор, бром и йод), -ОН, -CN, -SH, -NH<sub>2</sub>, -NHCH<sub>3</sub>, -NO<sub>2</sub>, -CF<sub>3</sub>, -OCH<sub>3</sub>, -OCF<sub>3</sub>, -(CH<sub>2</sub>)<sub>0-4</sub>-COOH и -С<sub>1-2</sub> алкила, который сам необязательно может быть замещен одним или большим числом независимых друг от друга заместителей, выбранных из группы, состоящей из галогена (например, фтор, хлор, бром и йод), -ОН, -CN, -SH, -NH<sub>2</sub>, -NHCH<sub>3</sub>, -NO<sub>2</sub>, -CF<sub>3</sub>, -OCH<sub>3</sub>, -OCF<sub>3</sub>, -(CH<sub>2</sub>)<sub>0-4</sub>-COOH. В различных примерах осуществления изобретения присутствуют от одного до четырех заместителей.</p>
+<p num="474">«Арил» относится к необязательно замещенной ароматической группе с, по меньшей мере, одним кольцом, имеющим сопряженную пи-электронную систему, содержащую до двух сопряженных или соединенных кольцевых систем. Арил включает, но не ограничивается только ими, карбоксильный арил, гетероциклический арил и биарильную группы. Предпочтительно, арил представляет собой пяти- или шестичленное кольцо. Предпочтительными атомами для гетероциклического арила являются один или более атомов серы, кислорода и/или азота. Не ограничивающие объем изобретения примеры арила включают фенил, 1-нафтил, 2-нафтил, индол, хинолин, 2-имидазол и 9-антрацен и им подобные. Заместители арила могут быть выбраны из группы, состоящей из галогена (например, фтор, хлор, бром и йод), -ОН, -CN, -SH, -NH<sub>2</sub>, -NHCH<sub>3</sub>, -NO<sub>2</sub>, -CF<sub>3</sub>, -OCH<sub>3</sub>, -OCF<sub>3</sub>, -(CH<sub>2</sub>)<sub>0-4</sub>-COOH и -С<sub>1-2</sub> алкила, который сам необязательно может быть замещен одним или большим числом независимых друг от друга заместителей, выбранных из группы, состоящей из галогена (например, фтор, хлор, бром и йод), -ОН, -CN, -SH, -NH<sub>2</sub>, -NHCH<sub>3</sub>, -NO<sub>2</sub>, -CF<sub>3</sub>, -OCH<sub>3</sub>, -OCF<sub>3</sub>, -(CH<sub>2</sub>)<sub>0-4</sub>-COOH. В различных примерах осуществления изобретения присутствуют от одного до четырех заместителей. В различных примерах осуществления изобретения арил содержит 0, 1, 2, 3 или 4 заместителя.</p>
+<p num="475">«Арилалкил» или «алкиларил» относится к «алкилу», присоединенному к «арилу».</p>
+<p num="476">«Ацил» относится к X'-R”-C(O)-, где R” является алкилом, замещенным алкилом, гетероалкилом, замещенным гетероалкилом, алкенилом, замещенным алкенилом, алкинилом, замещенным алкинилом, арилом, алкиларилом или замещенным алкиларилом и X' является Н или отсутствует.</p>
+<p num="477">Настоящее изобретение включает диастереомеры, как рацемат, так и разделенные энантиомерно чистые формы. Заявленные аналоги могут содержать D-аминокислоты, L-аминокислоты или их комбинацию. Предпочтительно, если только не указано иначе, присутствие аминокислоты в аналоге грелина в виде L-энантиомера.</p>
+<p num="478"><b>ПРИМЕРЫ</b></p>
+<p num="479">Примеры предоставлены ниже для дополнительной иллюстрации различных особенностей настоящего изобретения. Примеры также иллюстрируют полезную методологию для практического осуществления изобретения. Эти примеры не ограничивают формулу изобретения.</p>
+<p num="480">Пример 1: <img file="00000204.tif" he="33" wi="46" img-format="tif" img-content="undefined"/></p>
+<p num="481">Пример 2: <img file="00000205.tif" he="33" wi="46" img-format="tif" img-content="undefined"/></p>
+<p num="482">Пример 3: <img file="00000206.tif" he="34" wi="49" img-format="tif" img-content="undefined"/></p>
+<p num="483">Пример 4: <img file="00000207.tif" he="34" wi="46" img-format="tif" img-content="undefined"/></p>
+<p num="484">Пример 5: <img file="00000208.tif" he="34" wi="46" img-format="tif" img-content="undefined"/></p>
+<p num="485">Пример 6: <img file="00000209.tif" he="35" wi="45" img-format="tif" img-content="undefined"/></p>
+<p num="486">Пример 7: <img file="00000210.tif" he="32" wi="49" img-format="tif" img-content="undefined"/></p>
+<p num="487">Пример 8: <img file="00000211.tif" he="33" wi="46" img-format="tif" img-content="undefined"/></p>
+<p num="488">Пример 9: <img file="00000212.tif" he="34" wi="46" img-format="tif" img-content="undefined"/></p>
+<p num="489">Пример 10: <img file="00000213.tif" he="34" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="490">Пример 11: <img file="00000214.tif" he="34" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="491">Пример 12: <img file="00000215.tif" he="35" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="492">Пример 13: <img file="00000216.tif" he="34" wi="45" img-format="tif" img-content="undefined"/></p>
+<p num="493">Пример 14: <img file="00000217.tif" he="34" wi="46" img-format="tif" img-content="undefined"/></p>
+<p num="494">Пример 15: <img file="00000218.tif" he="36" wi="47" img-format="tif" img-content="undefined"/></p>
+<p num="495">Пример 16: <img file="00000219.tif" he="34" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="496">Пример 17: <img file="00000220.tif" he="34" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="497">Пример 18: <img file="00000221.tif" he="36" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="498">Пример 19: <img file="00000222.tif" he="35" wi="47" img-format="tif" img-content="undefined"/></p>
+<p num="499">Пример 20: <img file="00000223.tif" he="36" wi="49" img-format="tif" img-content="undefined"/></p>
+<p num="500">Пример 21: <img file="00000224.tif" he="36" wi="49" img-format="tif" img-content="undefined"/></p>
+<p num="501">Пример 22: <img file="00000225.tif" he="36" wi="49" img-format="tif" img-content="undefined"/></p>
+<p num="502">Пример 23: <img file="00000226.tif" he="36" wi="49" img-format="tif" img-content="undefined"/></p>
+<p num="503">Пример 24: <img file="00000227.tif" he="36" wi="50" img-format="tif" img-content="undefined"/></p>
+<p num="504">Пример 25: <img file="00000228.tif" he="35" wi="50" img-format="tif" img-content="undefined"/></p>
+<p num="505">Пример 26: <img file="00000229.tif" he="37" wi="50" img-format="tif" img-content="undefined"/></p>
+<p num="506">Пример 27: <img file="00000230.tif" he="36" wi="50" img-format="tif" img-content="undefined"/></p>
+<p num="507">Пример 28: <img file="00000231.tif" he="37" wi="50" img-format="tif" img-content="undefined"/></p>
+<p num="508">Пример 29: <img file="00000232.tif" he="36" wi="49" img-format="tif" img-content="undefined"/></p>
+<p num="509">Пример 30: <img file="00000233.tif" he="36" wi="49" img-format="tif" img-content="undefined"/></p>
+<p num="510">Пример 31: <img file="00000234.tif" he="36" wi="50" img-format="tif" img-content="undefined"/></p>
+<p num="511">Пример 32: <img file="00000235.tif" he="36" wi="52" img-format="tif" img-content="undefined"/></p>
+<p num="512">Пример 33: <img file="00000236.tif" he="37" wi="50" img-format="tif" img-content="undefined"/></p>
+<p num="513">Пример 34: <img file="00000237.tif" he="36" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="514">Пример 35: <img file="00000238.tif" he="35" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="515">Пример 36: <img file="00000239.tif" he="35" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="516">Пример 37: <img file="00000240.tif" he="35" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="517">Пример 38: <img file="00000241.tif" he="35" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="518">Пример 39: <img file="00000242.tif" he="36" wi="46" img-format="tif" img-content="undefined"/></p>
+<p num="519">Пример 40: <img file="00000243.tif" he="36" wi="50" img-format="tif" img-content="undefined"/></p>
+<p num="520">Пример 41: <img file="00000244.tif" he="36" wi="50" img-format="tif" img-content="undefined"/></p>
+<p num="521">Пример 42: <img file="00000245.tif" he="36" wi="50" img-format="tif" img-content="undefined"/></p>
+<p num="522">Пример 43: <img file="00000246.tif" he="35" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="523">Пример 44: <img file="00000247.tif" he="37" wi="49" img-format="tif" img-content="undefined"/></p>
+<p num="524">Пример 45: <img file="00000248.tif" he="37" wi="49" img-format="tif" img-content="undefined"/></p>
+<p num="525">Пример 46: <img file="00000249.tif" he="37" wi="49" img-format="tif" img-content="undefined"/></p>
+<p num="526">Пример 47: <img file="00000250.tif" he="37" wi="49" img-format="tif" img-content="undefined"/></p>
+<p num="527">Пример 48: <img file="00000251.tif" he="36" wi="50" img-format="tif" img-content="undefined"/></p>
+<p num="528">Пример 49: <img file="00000252.tif" he="37" wi="47" img-format="tif" img-content="undefined"/></p>
+<p num="529">Пример 50: <img file="00000253.tif" he="35" wi="47" img-format="tif" img-content="undefined"/></p>
+<p num="530">Пример 51: <img file="00000254.tif" he="35" wi="47" img-format="tif" img-content="undefined"/></p>
+<p num="531">Пример 52: <img file="00000255.tif" he="37" wi="47" img-format="tif" img-content="undefined"/></p>
+<p num="532">Пример 53: <img file="00000256.tif" he="35" wi="47" img-format="tif" img-content="undefined"/></p>
+<p num="533">Пример 54: <img file="00000257.tif" he="34" wi="46" img-format="tif" img-content="undefined"/></p>
+<p num="534">Пример 55: <img file="00000258.tif" he="34" wi="46" img-format="tif" img-content="undefined"/></p>
+<p num="535">Пример 56: <img file="00000259.tif" he="33" wi="46" img-format="tif" img-content="undefined"/></p>
+<p num="536">Пример 57: <img file="00000260.tif" he="32" wi="47" img-format="tif" img-content="undefined"/></p>
+<p num="537">Пример 58: <img file="00000261.tif" he="32" wi="47" img-format="tif" img-content="undefined"/></p>
+<p num="538">Пример 59: <img file="00000262.tif" he="32" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="539">Пример 60: <img file="00000263.tif" he="31" wi="46" img-format="tif" img-content="undefined"/></p>
+<p num="540">Пример 61: <img file="00000264.tif" he="32" wi="46" img-format="tif" img-content="undefined"/></p>
+<p num="541">Пример 62: <img file="00000265.tif" he="32" wi="46" img-format="tif" img-content="undefined"/></p>
+<p num="542">Пример 63: <img file="00000266.tif" he="32" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="543">Пример 64: <img file="00000267.tif" he="32" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="544">Пример 65: <img file="00000268.tif" he="35" wi="44" img-format="tif" img-content="undefined"/></p>
+<p num="545">Пример 66: <img file="00000269.tif" he="33" wi="47" img-format="tif" img-content="undefined"/></p>
+<p num="546">Пример 67: <img file="00000270.tif" he="33" wi="47" img-format="tif" img-content="undefined"/></p>
+<p num="547">Пример 68: <img file="00000271.tif" he="33" wi="47" img-format="tif" img-content="undefined"/></p>
+<p num="548">Пример 69: <img file="00000272.tif" he="35" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="549">Пример 70: <img file="00000273.tif" he="35" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="550">Пример 71: <img file="00000274.tif" he="33" wi="48" img-format="tif" img-content="undefined"/></p>
+<p num="551">Пример 72: <img file="00000275.tif" he="33" wi="52" img-format="tif" img-content="undefined"/></p>
+<p num="552">Пример 73: <img file="00000276.tif" he="37" wi="44" img-format="tif" img-content="undefined"/></p>
+<p num="553"><u>Синтез</u></p>
+<p num="554">Соединения изобретения могут быть получены посредством применения методов, раскрытых в примерах данного документа, а также методов, которые хорошо известны из уровня техники. Например, полипептидный участок GHRP-аналога может быть химически или биохимически синтезирован и модифицирован. Примеры методов биохимического синтеза, включающие введение нуклеиновой кислоты в клетку и экспрессию нуклеиновых кислот, предоставлены Ausubel, Current Protocols in Molecular Biology, John Wiley, 1987-1998 и в Sambrook et al., in Molecular Cloning, A Laboratory Manual, 2<sup>nd</sup> Edition, Gold Spring Harbor Laboratory Press, 1989. Методы химического синтеза полипептидов также хорошо известны из уровня техники, например, Vincent в Peptide and Protein Drug Delivery, New York, N.Y., Dekker, 1990. Например, пептиды этого изобретения могут быть получены путем стандартного твердофазного пептидного синтеза (см., например, Stewart J.M. et al., Solid Phase Synthesis (Pierce Chemical Co., 2d ed. 1984)).</p>
+<p num="555">Заместитель R<sup>1</sup> в вышеупомянутой формуле (I) может быть присоединен к свободной аминогруппе N-концевой аминокислоты стандартными способами, известными из уровня техники. Например, алкильные группы, например, (С<sub>1</sub>-С<sub>30</sub>)алкил, могут быть присоединены путем восстановительного алкилирования. Гидроксиалкильные группы, например (С<sub>1</sub>-С<sub>30</sub>)гидроксиалкил, также могут быть присоединены путем восстановительного алкилирования, при этом свободные гидроксигруппы защищены трет-бутиловым сложным эфиром. Ацильные группы, например СОЕ<sup>1</sup>, могут быть присоединены взаимодействием свободной кислоты, например Е<sup>1</sup>СООН, со свободным амином N-концевой аминокислоты посредством смешивания подготовленного полимера с 3 молярными эквивалентами как свободной кислоты, так и диизопропилкарбодиимида в метиленхлориде в течение приблизительно одного часа. Если свободная кислота содержит свободные гидроксигруппы, например п-гидроксифенилпропионовая кислота, тогда взаимодействие следует осуществлять с дополнительными 3 молярными эквивалентами НОВТ.</p>
+<p num="556">Пептиды изобретения также могут быть синтезированы и были синтезированы параллельным способом на синтезаторе ACT 396 Multiple Biomolecular Synthesizer<sup>®</sup> (Advanced Chem Tech<sup>®</sup>, Louisville, KY) (здесь и далее именуемом как «синтезатор»). Синтезатор был запрограммирован для осуществления следующего реакционного цикла:</p>
+<p num="557">(1) промывка диметилформамидом (ДМФА);</p>
+<p num="558">(2) удаление Fmoc защитной группы с помощью 20% пиперидина в ДМФА первоначально в течение 5 минут и вторично - в течение 25 минут;</p>
+<p num="559">(3) промывка ДМФА;</p>
+<p num="560">(4) взаимодействие с Fmoc-аминокислотой в течение одного часа при комнатной температуре в присутствии диизопропилкарбодиимида (DIC) и 1-гидроксибензотриазола (HOBt) и</p>
+<p num="561">(5) повторение этапа (4).</p>
+<p num="562"><u>Промежуточное соединение А: N-α-Boc-Aib-D-Bal-D-Trp(Boc)-NH</u><sub>2</sub></p>
+<p num="563"><img file="00000277.tif" he="59" wi="85" img-format="tif" img-content="undefined"/></p>
+<p num="564">Указанное в заголовке соединение было автоматически собрано на синтезаторе ACT 396 Synthesizer<sup>®</sup> (Advanced Chem Tech<sup>®</sup>, Louisville, KY) посредством применения флуоренилметилоксикарбонильной (Fmoc) химии. Использовали полимер Зибера (50 мкмоль - загрузка для каждой реакционной ячейки, AnaSpec<sup>®</sup>, San Jose, CA) c замещением 0,44 ммоль/г. Boc-Aib-OH и Fmoc-D-Trp(Boc)-OH были закуплены в Novabiochem<sup>®</sup> (San Diego, CA). Fmoc-D-Bal-OH был закуплен в Chem-Impex International, Inc.<sup>®</sup> (Wood Dale, IL). Полимер в двух реакционных ячейках первоначально обрабатывали 25% раствором пиперидина в ДМФА в течение получаса для удаления Fmoc защитной группы, затем трижды промывали 1,5 мл ДМФА. Fmoc-D-Trp(Boc)-OH (300 мкмоль, 6 экв.) присоединяли к полимеру, используя DIC (0,4 н. раствор в ДМФА, 300 мкмоль, 6 экв.) и HOBt (0,3 н. раствор в NMP, 300 мкмоль, 6 экв.) в качестве связующих реагентов и NMP в качестве растворителя. Дублирующее связывание осуществляли дважды с интервалом в один час. Полимер затем промывали ДМФА (3×1,5 мл). Вышеупомянутый цикл снятие защиты/промывка/присоединение/промывка повторяли для присоединения D-Bal и Boc-Aib остатков с использованием Foci-D-Bal-OH и Boc-Aib-OH защищенных аминокислот. Полимер после процесса сборки промывали DCM и перемещали в реакционный сосуд на встряхивающем устройстве. Полимер встряхивали с 1% ТФА в DCM (10 мл) в течение 10 минут. Раствор отфильтровывали в колбу, содержащую 10% пиридин в 4 мл Mesh. Эту процедуру повторяли дважды. Полимер затем промывали Mesh и DCM. Фильтраты объединяли и концентрировали при пониженном давлении. Полученный раствор затем:</p>
+<p num="565">1) разбавляли 50 мл DCM;</p>
+<p num="566">2) промывали 20 мл насыщенного водного раствора бикарбоната натрия, 20 мл 1 М водного раствора гидросульфата калия и 20 мл насыщенного водного раствора хлорида натрия;</p>
+<p num="567">3) сушили над безводным сульфатом натрия;</p>
+<p num="568">4)фильтровали и</p>
+<p num="569">5) упаривали досуха при пониженном давлении.</p>
+<p num="570">Получали белый порошок массой 57 мг. Масс-спектрометрический анализ с электроспрей ионизацией (ESI-МС) показал молекулярную массу 692,4 (в соответствии с рассчитанной молекулярной массой 691,9). Для конечного продукта определяли чистоту 99% на основании анализа аналитической ВЭЖХ.</p>
+<p num="571"><u>Промежуточное соединение В: N-α-Boc-Aib-D-Bal-DgTrp(Boc)-H</u></p>
+<p num="572"><img file="00000278.tif" he="55" wi="80" img-format="tif" img-content="undefined"/></p>
+<p num="573">Раствор N-α-Boc-Aib-D-Bal-D-Trp(Boc)-NH<sub>2</sub> (промежуточное соединение А, 48,9 мг, 62 мкмоль), пиридина (136 мкмоль, 2,2 экв.) и бис(трифторацетокси)йодбензола (34,4 мг, 1,1 экв.) в воде и ацетонитриле (1:1) перемешивали при комнатной температуре в течение 45 минут. Растворители удаляли при пониженном давлении. Остаток растворяли в 10 мл AcOEt и трижды промывали 2 мл насыщенного раствора NaHCO<sub>3</sub>, трижды 2 мл насыщенного раствора KHSO<sub>4</sub> и трижды 2 мл насыщенного солевого раствора. Органический слой сушили над Na<sub>2</sub>SO<sub>4</sub>, фильтровали и упаривали досуха в вакууме. Был получен выход 47,3 мг требуемого продукта. ESI-MC анализ показал молекулярную массу 664,0 (в соответствии с рассчитанной молекулярной массой 663,8). Для конечного продукта определяли чистоту 99% на основании анализа аналитической ВЭЖХ.</p>
+<p num="574"><u>Промежуточное соединение С: N-α-Boc-Aib-D-Bal-DgTrp(Boc)-СHО</u></p>
+<p num="575"><img file="00000279.tif" he="56" wi="82" img-format="tif" img-content="undefined"/></p>
+<p num="576">Смесь N-α-Boc-Aib-D-Bal-DgTrp(Boc)-H (промежуточное соединение В, 47,3 мг, 71,2 мкмоль), НСООСН<sub>3</sub> (10,3 мл) и DIEA (100 мкл) выдерживали при нагревании при 50°С в течение ночи. Смесь разбавляли 5 мл толуола и освобождали от легких компонентов. Остаток растворяли в 10 мл этилацетата и трижды промывали 2 мл насыщенного раствора KHSO<sub>4</sub> и трижды 2 мл насыщенного солевого раствора. Органический слой сушили над Na<sub>2</sub>SO<sub>4</sub>, фильтровали и растворитель удаляли в вакууме. Был получен выход 40,5 мг требуемого продукта. Для конечного продукта определяли чистоту 99% на основании анализа аналитической ВЭЖХ. ESI-MC анализ показал молекулярную массу 692,3 (в соответствии с рассчитанной молекулярной массой 691,9).</p>
+<p num="577"><u>Пример 1: Aib-D-Bal-DgTrp-СHО</u></p>
+<p num="578"><img file="00000280.tif" he="39" wi="53" img-format="tif" img-content="undefined"/></p>
+<p num="579">N-α-Boc-Aib-D-Bal-DgTrp(Boc)-СHО (промежуточное соединение С, 35,5 мг, 51,3 мкмоль) обрабатывали 5 мл смеси ТФА/тиоанизол/анизол (об./об./об.: 4/0,5/0,5) при 0°С в течение полутора часов. Раствор упаривали в вакууме. Остаток растирали в холодном эфире и осадок собирали фильтрованием. Неочищенный продукт очищали ВЭЖХ, используя колонку Luna<sup>®</sup> (40×130 мм) C18-(2) (Phenomenex<sup>®</sup>, Torrance, CA). Колонку элюировали, используя линейный градиент от 95% А и 5% В до 60% А и 40% В в течение часа, где А представляет собой 0,1% ТФА в воде и В представляет собой 0,1% ТФА в ацетонитриле. Фракции, содержащие продукт, объединяли и лиофилизовали. Получали образец требуемого соединения массой 8,4 мг. Для конечного продукта определяли чистоту 99% на основании анализа аналитической ВЭЖХ. ESI-MC анализ показал молекулярную массу 491,4 (в соответствии с рассчитанной молекулярной массой 491,6).</p>
+<p num="580"><u>Пример 11: Aib-D-Bal-DgTrp-С(О)СН</u><sub>3</sub></p>
+<p num="581"><img file="00000281.tif" he="41" wi="54" img-format="tif" img-content="undefined"/></p>
+<p num="582">Смесь N-α-Boc-Aib-D-Bal-DgTrp(Boc)-H (промежуточное соединение В, 50,0 мг, 75,3 мкмоль), уксусной кислоты (82,8 мкмоль), EDC (82,8 мкмоль), HOBt (82,8 мкмоль) и DIEA (82,8 мкмоль) в DCM (10 мл) перемешивали при комнатной температуре в течение ночи. Смесь разбавляли 15 мл DCM, дважды промывали 5% водным раствором NaHCO<sub>3</sub>, дважды промывали 5% водным раствором лимонной кислоты и дважды промывали насыщенным солевым раствором, сушили над MgSO<sub>4</sub>, фильтровали и концентрировали при пониженном давлении, получая в результате N-α-Boc-Aib-D-Bal-DgTrp(Вос)-С(О)СН<sub>3</sub>. Промежуточное соединение использовали без дополнительной очистки.</p>
+<p num="583">N-α-Boc-Aib-D-Bal-DgTrp(Вос)-С(О)СН<sub>3</sub> (50,0 мкмоль) обрабатывали 5 мл смеси ТФА/тиоанизол/анизол (об./об./об.: 4/0,5/0,5) при 0°С в течение полутора часов. Раствор упаривали в вакууме. Остаток растирали в холодном эфире и осадок собирали фильтрованием. Неочищенный продукт очищали ВЭЖХ, используя колонку Luna<sup>®</sup> (40×130 мм) C18-(2) (Phenomenex<sup>®</sup>, Torrance, CA). Колонку элюировали, используя линейный градиент от 95% А и 5% В до 60% А и 40% В в течение часа, где А представляет собой 0,1% ТФА в воде и В представляет собой 0,1% ТФА в ацетонитриле. Фракции, содержащие продукт, объединяли и лиофилизовали, получая в результате требуемое соединение. Для конечного продукта определяли чистоту 99,3% на основании анализа аналитической ВЭЖХ. ESI-MC анализ показал молекулярную массу 505,5 (в соответствии с рассчитанной молекулярной массой 505,64).</p>
+<p num="584"><u>Пример 57: Aib-D-Bal-DgTrp-SO</u><sub>2</sub><u>CH</u><sub>3</sub></p>
+<p num="585"><img file="00000282.tif" he="39" wi="55" img-format="tif" img-content="undefined"/></p>
+<p num="586">Смесь N-α-Boc-Aib-D-Bal-DgTrp(Вос)-H (промежуточное соединение В, 50,0 мг, 75,3 мкмоль), метансульфонилхлорида (75,3 мкмоль) и DIEA (82,8 мкмоль) в 10 мл DCM перемешивали при комнатной температуре в течение ночи. Смесь разбавляли 15 мл DCM, дважды промывали 5% водным раствором NaHCO<sub>3</sub>, дважды промывали 5% водным раствором лимонной кислоты и дважды промывали насыщенным солевым раствором, сушили над MgSO<sub>4</sub>, фильтровали и концентрировали при пониженном давлении, получали в результате N-α-Boc-Aib-D-Bal-DgTrp(Вос)-SO<sub>2</sub>CH<sub>3. </sub>Промежуточное соединение использовали без дополнительной очистки.</p>
+<p num="587">N-α-Boc-Aib-D-Bal-DgTrp(Вос)-SO<sub>2</sub>CH<sub>3 </sub>(50,0 мкмоль) обрабатывали 5 мл смеси ТФА/тиоанизол/анизол (об./об./об.: 4/0,5/0,5) при 0°С в течение полутора часов. Раствор упаривали в вакууме. Остаток растирали в холодном эфире и осадок собирали фильтрованием. Неочищенный продукт очищали ВЭЖХ, используя колонку Luna<sup>®</sup> (40×130 мм) C18-(2) (Phenomenex<sup>®</sup>, Torrance, CA). Колонку элюировали, используя линейный градиент от 95% А и 5% В до 60% А и 40% В в течение часа, где А представляет собой 0,1% ТФА в воде и В представляет собой 0,1% ТФА в ацетонитриле. Фракции, содержащие продукт, объединяли и лиофилизовали, получая в результате требуемое соединение.</p>
+<p num="588">Другие пептиды изобретения могут быть получены средним специалистом в данной области техники с использованием синтетических методов, аналогичных тем, которые, в основном, раскрыты выше и/или которые раскрыты, в частности, в вышеупомянутых примерах как соединения, показанные в таблице 1.</p>
+<p num="589">
+<tables num="4"><table frame="all">
+<tgroup cols="5" rowsep="1" colsep="1">
+<colspec colname="c0" colwidth="11mm"/>
+<colspec colname="c1" colwidth="71mm"/>
+<colspec colname="c2" colwidth="31mm"/>
+<colspec colname="c3" colwidth="30mm"/>
+<colspec colname="c4" colwidth="19mm"/>
+<tbody>
+<row>
+<entry align="right" namest="c0" nameend="c4" rowsep="1" colsep="0"><b>Таблица 1</b></entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">Пример</entry>
+<entry align="center" rowsep="1" colsep="1">Структура</entry>
+<entry align="center" rowsep="1" colsep="1">Молекулярная масса (рассчитанная)</entry>
+<entry align="center" rowsep="1" colsep="1">Молекулярная масса<br/>(MS-ES)</entry>
+<entry align="center" rowsep="1" colsep="0">Чистота (%)</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#12</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000283.tif" he="34" wi="45" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">505,640</entry>
+<entry align="center" rowsep="1" colsep="1">505,5000</entry>
+<entry align="center" rowsep="1" colsep="0">97,40%</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#1</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000284.tif" he="44" wi="61" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">491,6130</entry>
+<entry align="center" rowsep="1" colsep="1">491,4000</entry>
+<entry align="center" rowsep="1" colsep="0">94,10%</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#65</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000285.tif" he="35" wi="44" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">485,5850</entry>
+<entry align="center" rowsep="1" colsep="1">485,6000</entry>
+<entry align="center" rowsep="1" colsep="0">95,00%</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#51</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000286.tif" he="35" wi="46" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">533,6930</entry>
+<entry align="center" rowsep="1" colsep="1">533,6000</entry>
+<entry align="center" rowsep="1" colsep="0">99,40%</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#11</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000287.tif" he="34" wi="46" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">505,6400</entry>
+<entry align="center" rowsep="1" colsep="1">505,5000</entry>
+<entry align="center" rowsep="1" colsep="0">99,30%</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#50</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000288.tif" he="35" wi="46" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">519,6670</entry>
+<entry align="center" rowsep="1" colsep="1">519,3000</entry>
+<entry align="center" rowsep="1" colsep="0">99,30%</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#52</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000289.tif" he="37" wi="46" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">547,7200</entry>
+<entry align="center" rowsep="1" colsep="1">547,5000</entry>
+<entry align="center" rowsep="1" colsep="0">99,70%</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#4</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000290.tif" he="33" wi="46" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">508,6640</entry>
+<entry align="center" rowsep="1" colsep="1">508,2000</entry>
+<entry align="center" rowsep="1" colsep="0">95,00%</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#73</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000291.tif" he="39" wi="46" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">560,5940</entry>
+<entry align="center" rowsep="1" colsep="1">559,5000</entry>
+<entry align="center" rowsep="1" colsep="0">99,90%</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#6</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000292.tif" he="35" wi="44" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">502,6360</entry>
+<entry align="center" rowsep="1" colsep="1">502,3000</entry>
+<entry align="center" rowsep="1" colsep="0">95,00%</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#18</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000293.tif" he="34" wi="45" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">517,6510</entry>
+<entry align="center" rowsep="1" colsep="1">517,3000</entry>
+<entry align="center" rowsep="1" colsep="0">95,00%</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#20</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000294.tif" he="35" wi="47" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">528,6740</entry>
+<entry align="center" rowsep="1" colsep="1">528,6000</entry>
+<entry align="center" rowsep="1" colsep="0">95,00%</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#7</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000295.tif" he="33" wi="48" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">502,6360</entry>
+<entry align="center" rowsep="1" colsep="1">502,3000</entry>
+<entry align="center" rowsep="1" colsep="0">95,00%</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#2</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000296.tif" he="33" wi="45" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">502,6360</entry>
+<entry align="center" rowsep="1" colsep="1">502,2000</entry>
+<entry align="center" rowsep="1" colsep="0">95,00%</entry>
+</row>
+<row>
+<entry align="center" rowsep="0" colsep="1">#5</entry>
+<entry align="center" rowsep="0" colsep="1"><img file="00000297.tif" he="32" wi="44" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="0" colsep="1">491,6130</entry>
+<entry align="center" rowsep="0" colsep="1">491,6000 </entry>
+<entry align="center" rowsep="0" colsep="0">95,00%</entry>
+</row>
+</tbody></tgroup></table></tables>
+
+</p>
+<p num="590"><b><u>Биологические испытания</u></b></p>
+<p num="591">Действия соединений изобретения на GHS-рецептор возможно, и оно было определено с использованием таких методов, которые описаны в примерах, предоставленных ниже. В различных примерах осуществления изобретения аналог грелина имел, по меньшей мере, 50%, по меньшей мере, 60%, по меньшей мере, 70%, по меньшей мере, 80% или, по меньшей мере, 90% функциональной активности относительно природного грелина, как было определено с применением одного или более испытаний функциональной активности, описанных ниже, и/или имел IC<sub>50</sub> больше приблизительно 1000 нМ, больше приблизительно 100 нМ или больше приблизительно 50 нМ, как определено испытанием связывания с рецептором, описанным ниже. Относительно величины IC<sub>50</sub>, «больше» касается активности и таким образом указывает на меньшее количество, необходимое для достижения ингибирующего связывания.</p>
+<p num="592">Измерительные испытания способности соединения связываться с GHS-рецептором используют GHS-рецептор, фрагмент рецептора, включающий в себя грелиновый участок связывания, полипептид, включающий в себя такой фрагмент или производное полипептида. Предпочтительно использование в испытании GHS-рецептора или его фрагмента. Полипептид, включающий в себя фрагмент GHS-рецептора, который связывает грелин, может также содержать один или более полипептидных участков, не обнаруженных в GHS-рецепторе. Производное такого полипептида включает фрагмент GHS-рецептора, который связывает грелин вместе с одним или большим числом непептидных компонентов.</p>
+<p num="593">Аминокислотная последовательность GHS-рецептора, участвующая в связывании, может быть легко определена с использованием меченого грелина или с использованием структурных или функциональных аналогов грелина и различных фрагментов рецептора. Могут применяться различные подходы для подбора фрагментов для тестирования, чтобы сузить участок связывания. Примеры таких подходов включают в себя тестирование последовательных фрагментов длиной приблизительно пятнадцать аминокислот, начиная с N-конца, и тестирование более длинных фрагментов. Если тестируются более длинные фрагменты, связывающий грелин фрагмент может быть разбит для дальнейшего обнаружения точного местонахождения связывающего грелин участка. Фрагменты, используемые для исследований связывания, могут быть получены с использованием технологии рекомбинантной нуклеиновой кислоты.</p>
+<p num="594">Испытания связывания могут выполняться с использованием индивидуальных соединений или препаратов, содержащих различное число соединений. Препарат, содержащий различное число соединений, имеющих способность связывать GHS-рецептор, может быть разделен на меньшие группы соединений, которые можно протестировать для идентификации соединения(й), связывающихся с GHS-рецептором. В примере осуществления настоящего изобретения тестируемый препарат содержит, по меньшей мере, десять соединений, применяемых в испытании связывания.</p>
+<p num="595">Испытания связывания могут выполняться с использованием рекомбинантно полученных полипептидов GHS-рецептора, представленных в различных условиях окружения. Такие условия окружения включают, например, клеточные экстракты и очищенные клеточные экстракты, содержащие полипептиды GHS-рецептора, экспрессированные из рекомбинантной нуклеиновой кислоты или из встречающейся в природе нуклеиновой кислоты, и также включают, например, использование очищенного полипептида GHS-рецептора, полученного рекомбинантным способом или на основе встречающейся в природе нуклеиновой кислоты, который введен в различное окружение.</p>
+<p num="596"><b>Скрининг соединений, активных к GHS-рецептору</b></p>
+<p num="597">Скрининг соединений, активных к GHS-рецептору, облегчается применением рекомбинантно-экспрессированного рецептора. Применение рекомбинантно-экспрессированного GHS-рецептора предоставляет несколько преимуществ, таких как способность экспрессировать рецептор в определенной клеточной системе, чтобы отклик на соединение GHS-рецептора можно было легче отличить от откликов других рецепторов. Например, GHS-рецептор может быть экспрессирован в клеточной линии, такой как HEK 293, COS 7 и CHO, которая обычно не экспрессирует рецептор, посредством вектора экспрессии, при этом та же самая клеточная линия без вектора экспресии может выступать в качестве контроля.</p>
+<p num="598">Скрининг соединений, понижающих активность GHS-рецептора, облегчается путем применения в испытаниях функционального аналога грелина. Применение функционального аналога грелина в скрининговых испытаниях обеспечивает активность GHS-рецептора. Действие тестируемых соединений на такую активность может быть измерено для идентификации, например, аллостерических модуляторов и антагонистов.</p>
+<p num="599">Активность GHS-рецептора может быть измерена с использованием различных способов, таких как детектирование изменения во внутриклеточной конформации GHS-рецептора, определение энергий связывания G-белка и/или детектирование внутриклеточных мессенджеров. Предпочтительно, активность GHS-рецептора измеряется с использованием такого способа, в котором измеряется внутриклеточный Са<sup>2+</sup>. Примеры способов, которые могут применяться для измерения Са<sup>2+</sup>, хорошо известны из уровня техники и включают использование красителей, таких как Fura-2<sup>®</sup>, и использование Са<sup>2+</sup>-биолюминисцентных чувствительных сигнальных белков, таких как экворин. Примером клеточной линии с применением экворина для измерения активности G-белка является HEK293/aeq17 (Button et al., Cell Calcium, (1993), 14: 663-71 и Feighner et al., (1999), 284: 2184-8).</p>
+<p num="600">Гибридные рецепторы, содержащие связывающий грелин участок, функционально соединенный с другим G-белком, также могут применяться для измерения активности GHS-рецептора. Гибридный GHS-рецептор содержит N-концевой внеклеточный домен (трансмембранный домен, составленный из трансмембранных участков, внеклеточных петлевых участков и внутриклеточных петлевых участков) и внутриклеточный карбоксильный конец. Способы получения гибридных рецепторов и измерения связанных с G-белком откликов предоставлены, например, в международной патентной публикации № WO 97/05252 и в патенте США № 5264565, каждый из которых таким образом включен в качестве ссылки в данный документ.</p>
+<p num="601"><b>Стимуляция активности GHS-рецептора</b></p>
+<p num="602">Структурные и/или функциональные аналоги грелина могут применяться для стимуляции активности GHS-рецептора. Такая стимуляция может применяться, например, для изучения эффекта регуляции GHS-рецептора, для изучения эффекта секреции гормона роста, для поиска или исследования антагонистов грелина или для достижения лечебного эффекта для субъекта. Лечебный эффект, который может быть достигнут, включает один или несколько нижеследующих: лечение состояния дефицита гормона роста, увеличение мышечной массы и/или плотности кости, преодоление половой дисфункции, способствование приросту массы тела, достижение идеального веса, восстановление и/или поддержание нормальной физической функции и/или повышение ослабленного аппетита.</p>
+<p num="603">Повышение веса и/или аппетита может быть полезным для достижения и/или поддержания идеальной массы тела, вызванной приростом массы тела или повышением прироста аппетита, либо при контролировании веса субъекта, либо при перенесении пациентом заболевания и/или патологического состояния, и/или при прохождении медицинского лечения, которое воздействует на вес или аппетит. Кроме того, например, сельскохозяйственные животные, такие как свиньи, коровы и куры, могут подвергаться лечению для прироста веса. Субъекты, у которых контролируется вес, включают такие, которые имеют массу тела, примерно, 10% или менее, 20% или менее или 30% или менее, чем нижний конец «нормального» диапазона массы тела или Индекса Массы Тела (“BMI”). BMI измеряет соотношение роста/веса субъекта и определяется рассчитыванием веса в килограммах, деленной на квадрат числа роста в метрах. BMI «нормальный» диапазон для человека обычно считается равным 19-22. «Нормальный» диапазон веса тела хорошо известен из уровня техники, и принимаются во внимание факторы, такие как возраст субъекта, рост и/или тип телосложения.</p>
+<p num="604"><b>Биологические испытания - Примеры</b></p>
+<p num="605"><u>1. Анализ связывания с рецептором</u></p>
+<p num="606"><u>А. Получение СНО-К1 клеток, экспрессирующих человеческий рекомбинантный GHS-рецептор-1а:</u></p>
+<p num="607">кДНК человеческого рецептора-1а, секретирующего гормон роста, (hGHS-R1a) клонировалась полимеразной цепной реакцией (ПЦР) с использованием человеческой мозговой РНК в качестве матрицы (Clontech<sup>®</sup>, Palo Alto, CA), ген-специфических праймеров, примыкающих к первичной полноразмерной последовательности, кодирующей hGHS-R1a, (S:5'-ATGTGGAACGCGACGCCCAGCGAAGAG-3' и AS: 5'-TCATGTATTAATACTAGATTCTGTCCA-3') и Advantage 2 PCR Kit<sup>®</sup> (Clontech<sup>®</sup>). ПЦР продукт клонировали в векторе рСR2.1, используя Original TA Cloning Kit<sup>®</sup> (Invitrogen<sup>®</sup>, Carisbad, CA). Первичной полноразмерной hGHS-R1a субклонировали в экспрессионном векторе млекопитающих pcDNA 3.1 (Invitrogen<sup>®</sup>, Carisbad, CA). Плазмиду вносили методом трансфекции в линию клеток яичника китайского хомячка, СНО-К1 (American Type Culture Collection<sup>®</sup>, Rockville, MD) кальцийфосфатным способом (Wigler, m. et al., Cell, (1977), 11:223). Изолированные клеточные клоны, стабильно экспессирующие hGHS-R1a, были получены путем селекции трансфицированных клеток, выращенных в циклах клонирования в среде RPMI 1640, дополненной 10% эмбриональной бычьей сыворотки и 1 мМ пирувата натрия, содержащего 0,8 мг/мл G418 (Gibco<sup>®</sup>, Grand Island, NY).</p>
+<p num="608"><u>В. Анализ связывания hGHS-R1a</u></p>
+<p num="609">Мембраны для исследования радиолигандного связывания могут быть получены и были получены путем гомогенизации вышеупомянутых клеток СНО-К1, экспрессирующих hGHS-R1a, в 20 мл ледяного 50 мМ Трис-НСl буфера с помощью Brinkman Polytron<sup>®</sup> (Westbury, NY) (параметр настройки 6, 15 сек). Гомогенаты дважды промывали центрифугированием (39000 g/10 мин) и полученные в итоге гранулы повторно суспендировали в 50 мМ трис-НСl буфере, содержащем 2,5 мМ MgCl<sub>2</sub> и 0,1% BSA. Для анализа аликвоты (0,4 мл) инкубировали с 0,05 нМ (<sup>125</sup>I)грелином (~2000 Кюри/ммоль) (Perkin Elmer Life Sciences<sup>®</sup>, Boston, MA) в присутствии и в отсутствие 0,05 мл нерадиоактивномеченных конкурирующих тестируемых соединений изобретения. После шестидесяти минут инкубации при 4°С связанный (<sup>125</sup>I)грелин отделяли от свободного путем быстрого фильтрования через GF/C фильтры (Brandel<sup>®</sup>, Gaithersburg, MD), которые предварительно замачивали в 0,5% полиэтиленимине/0,1% ВSА. Фильтры затем трижды промывали 5-мл аликвотами ледяного 50 мМ Трис-НСl буфера и 0,1% бычьего сывороточного альбумина, и связанная радиоактивность, задержанная на фильтрах, подсчитывалась с помощью гамма-спектрометра (Wallac LKB<sup>®</sup>, Gaithersburg, MD). Специфическое связывание определяли как общий связанный (<sup>125</sup>I)грелин минус тот, который связан в присутствии 1000 нМ грелина (Bachem<sup>®</sup>, Torrence, CA).</p>
+<p num="610">
+<tables num="5"><table frame="all">
+<tgroup cols="4" rowsep="1" colsep="1">
+<colspec colname="c0" colwidth="21mm"/>
+<colspec colname="c1" colwidth="81mm"/>
+<colspec colname="c2" colwidth="35mm"/>
+<colspec colname="c3" colwidth="25mm"/>
+<tbody>
+<row>
+<entry align="right" namest="c0" nameend="c3" rowsep="1" colsep="0"><b>Таблица 2</b></entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1"><b>Пример</b></entry>
+<entry align="center" rowsep="1" colsep="1"><b>Структура</b></entry>
+<entry align="center" rowsep="1" colsep="1"><b>Ki (нM)</b></entry>
+<entry align="center" rowsep="1" colsep="0"><b>SEM</b></entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#12</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000298.tif" he="35" wi="46" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">2,56</entry>
+<entry align="center" rowsep="1" colsep="0">1,86</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#1</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000299.tif" he="44" wi="61" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">15,01</entry>
+<entry align="center" rowsep="1" colsep="0">4,20</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#65</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000300.tif" he="34" wi="43" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">16,78</entry>
+<entry align="center" rowsep="1" colsep="0">9,64</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#51</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000301.tif" he="35" wi="46" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">20,18</entry>
+<entry align="center" rowsep="1" colsep="0">10,63</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#11</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000302.tif" he="35" wi="46" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">38,22</entry>
+<entry align="center" rowsep="1" colsep="0">8,31</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#50</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000303.tif" he="34" wi="45" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">61,51</entry>
+<entry align="center" rowsep="1" colsep="0">13,74</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#52</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000304.tif" he="36" wi="45" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">65,08</entry>
+<entry align="center" rowsep="1" colsep="0">20,28</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#4</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000305.tif" he="32" wi="45" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">92,14</entry>
+<entry align="center" rowsep="1" colsep="0">15,60</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#73</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000306.tif" he="37" wi="45" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">92,99</entry>
+<entry align="center" rowsep="1" colsep="0">22,70</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#6</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000307.tif" he="34" wi="45" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">100,30</entry>
+<entry align="center" rowsep="1" colsep="0">22,08</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#18</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000308.tif" he="36" wi="48" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">119,50</entry>
+<entry align="center" rowsep="1" colsep="0">9,50</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#20</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000309.tif" he="35" wi="49" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">132,67</entry>
+<entry align="center" rowsep="1" colsep="0">5,70</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#7</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000310.tif" he="31" wi="49" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">226,25</entry>
+<entry align="center" rowsep="1" colsep="0">43,17</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">#2</entry>
+<entry align="center" rowsep="1" colsep="1"><img file="00000311.tif" he="33" wi="44" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="1" colsep="1">235,88</entry>
+<entry align="center" rowsep="1" colsep="0">88,10</entry>
+</row>
+<row>
+<entry align="center" rowsep="0" colsep="1">#5</entry>
+<entry align="center" rowsep="0" colsep="1"><img file="00000312.tif" he="32" wi="44" img-format="tif" img-content="undefined"/></entry>
+<entry align="center" rowsep="0" colsep="1">279,50</entry>
+<entry align="center" rowsep="0" colsep="0">90,50</entry>
+</row>
+</tbody></tgroup></table></tables>
+
+</p>
+<p num="611"><u>2. Анализ GHS-R функциональной активности</u></p>
+<p num="612"><u>А. <i>In vitro</i> активация hGHS-R1a, опосредованная внутриклеточным iCa</u><sup>2+</sup></p>
+<p num="613">Соединения изобретения были протестированы на их способность стимулировать hGHS-R1a активность, опосредованную внутриклеточным iCa<sup>2+</sup>, с использованием клеток, экспрессирующих hGHS-R1a. Вышеупомянутые клетки СНО-К1, экспрессирующие hGHS-R1a, получались инкубацией в 0,3% ЭДТА/фосфатном буферном солевом растворе (25°С) и промывались дважды центрифугированием. Промытые клетки повторно суспендировали в солевом буферном растворе Хэнка (HBSS) для загрузки флуоресцентного Са<sup>2+</sup> индикатора Fura-2AM. Клеточные суспензии с концентрацией приблизительно 10<sup>6</sup> клеток/мл инкубировали с 2 мкМ Fura-2AM приблизительно в течение тридцати минут при примерно 25°С. Незагруженный Fura-2AM удаляли центрифугированием дважды в HBSS и полученные в итоге суспензии помещали в спектрофлуориметр (Hitachi<sup>®</sup> F-2000), снабженный магнитной мешалкой и держателем кювет с регулируемой температурой. После установления 37°С соединения изобретения добавляли для измерения активации внутриклеточного Са<sup>2+</sup>. Длины волн возбуждения и испускания были 340 и 510 нм соответственно.</p>
+<p num="614"><u>В. <i>In vivo</i> GH высвобождение/подавление</u></p>
+<p num="615">Используя методы, хорошо известные из уровня техники, соединения настоящего изобретения были протестированы на их способность стимулировать или подавлять высвобождение гормона роста (GH)<i> in vivo</i> (Deghenghi, R., et al., Life Sciences, (1994), 54: 1321-8; международная патентная публикация № WO 02/08250). С целью выявления способности соединений стимулировать GH высвобождение<i> in vivo</i> соединения инъецировали подкожно десятидневным крысам в предварительно определенной дозе, например, 300 мг/кг. Циркулирующий GH измеряли приблизительно через пятнадцать минут после инъекции и сравнивали с уровнями GH у крыс, инъецированных контрольным раствором.</p>
+<p num="616">Аналогичным образом соединения настоящего изобретения могут быть протестированы на их способность противодействовать индуцированной грелином секреции GH<i> in vivo.</i> Соединение может быть инъецировано подкожно десятидневным крысам в предварительно определенной дозе, например 300 мг/кг, вместе с грелином. Циркулирующий GH можно измерить, например, через пятнадцать минут после инъекции и сравнить с уровнями GH у крыс, инъецированных только одним грелином.</p>
+<p num="617"><b><u>Применение</u></b></p>
+<p num="618">Соединение или соединения изобретения могут применяться для субъекта. «Субъект» относится к млекопитающим и немлекопитающим животным, включая, например, но не ограничиваясь ими, человека, крысу, мышь или сельскохозяйственное животное. Ссылка на субъект не обязательно указывает на заболевание или расстройство, таким образом, термин «субъект» дополнительно включает, например, млекопитающее или немлекопитающее животное, которому введена доза аналога грелина как часть эксперимента, млекопитающее или немлекопитающее животное, которому проведено лечение для того, чтобы способствовать облегчению заболевания или нарушения, и млекопитающее или немлекопитающее животное, которому проведено профилактическое лечение для торможения или предотвращения развития заболевания или расстройства.</p>
+<p num="619">«Лечебный эффект» относится к любому улучшению для субъекта, страдающего от заболевания или медицинского патологического состояния. Такое улучшение может включать, но не ограничивается только ими, ослабление тяжести симптомов у субъекта, наблюдаемое уменьшение и/или ослабление фактически существующего недомогания, такое как уменьшение размера опухоли или повышение плотности кости или фактически существующее реверсирование заболевания или патологического состояния.</p>
+<p num="620">Соединения изобретения могут назначаться и применяться к субъекту с использованием рекомендации, предоставленной в данном документе вместе с методами, хорошо известными из уровня техники. Предпочтительный способ применения гарантирует, что эффективное количество соединения достигает цели. Рекомендации для фармацевтического применения в общем случае предоставлены в, например, Remington's Pharmaceutical Sciences 18<sup>th</sup> Edition, Ed. Gennaro, Mack Publishing, (1990) и в Modern Pharmaceutics 2<sup>nd</sup> Eddition, Eds. Banker и Rhodes, Marcel Dekker, Inc., (1990), и то и другое, таким образом, включены в данный документ в качестве ссылок.</p>
+<p num="621">Соединения изобретения могут быть получены в виде кислой или основной соли. Фармацевтически приемлемые соли (в форме водо- или жирорастворимых или как дисперсионные продукты) включают обычно применяемые нетоксичные соли или четвертичные аммониевые соли, которые образованы, например, из неорганических или органических кислот или оснований. Примеры таких солей включают такие кислотные сопряженные соли, как ацетат, адипат, альгинат, аспартат, бензоат, бензолсульфонат, бисульфат, бутират, цитрат, камфорат, камфорсульфонат, циклопентанпропионат, диглюконат, додецилсульфат, этансульфонат, фумарат, глюкогептаноат, глицерофосфат, гемисульфат, гептаноат, гексаноат, гидрохлорид, гидробромид, гидройодид, 2-гидроксиэтансульфонат, лактат, малеат, метансульфонат, 2-нафталинсульфонат, никотинат, оксалат, памоат, пектинат, персульфат, 3-фенилпропионат, пикрат, пивалат, пропионат, сукцинат, тартрат, тиоцианат, тозилат и ундеканоат; такие основные соли, как аммонийные соли, такие соли щелочных металлов, как соли натрия и калия, такие соли щелочноземельных металлов, как соли кальция и магния, такие соли с органическими основаниями, как соли дициклогексиламина, N-метил-D-глюкамина, и соли с такими аминокислотами, как аргинин и лизин.</p>
+<p num="622">Соединения изобретения могут применяться инъецированием и/или путем использования различных способов применения, включающих пероральный, назальный, трансдермальный и трансмукозальный. Активные ингредиенты, применяемые перорально как суспензия, могут быть приготовлены в соответствии с методами, хорошо известными из уровня техники приготовления фармацевтических препаратов, и могут содержать микрокристаллическую целлюлозу как неактивный объемный наполнитель, альгиновую кислоту или альгинат натрия как суспендирующий агент, метилцеллюлозу как усилитель вязкости и сахара как подслащивающие/ароматизирующие агенты. В случае таблеток с быстрым высвобождением активного ингредиента, композиции, включающие соединения рассматриваемого изобретения, могут дополнительно содержать микрокристаллическую целлюлозу, дикальция фосфат, крахмал, стеарат магния и лактозу и/или другие вспомогательные средства, связующие вещества, наполнители, дезинтегрирующие вещества, разбавители и смазывающие вещества.</p>
+<p num="623">Назальный аэрозоль или ингаляционные лекарственные средства могут быть приготовлены, например, в виде растворов в физиологическом растворе с использованием бензилового спирта или других подходящих консервирующих веществ, стимуляторов абсорбции для усиления биодоступности, фторуглероды и/или солюбилизирующие или диспергирующие агенты.</p>
+<p num="624">Соединения изобретения могут также применяться внутривенно (как болюс или инфузия), интраперитонеально, подкожно, локально с или без поглощения, или в виде внутримышечной формы. Если применяются посредством инъекции, инъецируемый раствор или суспензия могут быть приготовлены с использованием подходящих нетоксичных, парентерально приемлемых разбавителей или растворителей, таких как раствор Рингера или изотонический раствор хлорида натрия, или подходящих диспергирующих или увлажняющих и суспендирующих агентов, таких как стерильные, легкие, нелетучие масла, включающие синтетические моно- или диглицериды и жирные кислоты, включающие олеиновую кислоту.</p>
+<p num="625">Удобные регламентации дозирования предпочтительно устанавливать, принимая во внимание факторы, хорошо известные из уровня техники, включающие тип субъекта, которому вводится дозами лекарственное средство, возраст, вес, пол и медицинское патологическое состояние субъекта; способ применения лекарственного средства; почечную и печеночную функции субъекта; желаемый эффект; и особенность используемого соединения.</p>
+<p num="626">Оптимальная точность в достижении концентраций лекарственного средства в пределах диапазона, который приносит в результате эффективность без токсичности, требует регламентаций, основанных на кинетических характеристиках доступности для лекарственного средства целевых участков. Это включает рассмотрение распределения, равновесного состояния и удаления из организма лекарственного средства. Дневная доза для субъекта предполагается между 0,01 и 1000 мг для субъекта в день.</p>
+<p num="627">Соединения изобретения могут предоставляться в наборе медицинских инструментов. Такой набор медицинских инструментов обычно содержит активное вещество в дозированных формах для применения. Дозированные формы содержат достаточное количество активного соединения, такое, чтобы можно было получить желаемый эффект при применении субъекту в течение таких регулярных интервалов, как от 1 до 6 раз в день, в течение курса 1 или более дней. Предпочтительно, чтобы набор медицинских инструментов содержал инструкции, указывающие применение дозированной формы для достижения желаемого эффекта и количество дозированных форм, которое следует употребить на точно определенный период времени.</p>
+<p num="628">Изобретение описано в иллюстративной манере, и следует понимать, что терминология, которая использована, имеет намерение представлять собой по сути слова для описания, а не для ограничения. Очевидно, что многие модификации и вариации настоящего изобретения возможны в свете вышеприведенных методов. Поэтому следует понимать, что, в пределах объема прилагаемой формулы изобретения, изобретение может применяться иным образом, чем так, как конкретно описано.</p>
+<p num="629">Патентная и научная литература, на которую ссылались в данном документе, представляет собой знания, которые доступны тому, кто является специалистом в данной области техники. Все патенты, публикации патентов и другие публикации, помещенные в данном документе, таким образом включены в качестве ссылок в полагающейся им полноте.</p>
+<p num="630"><u>Другие примеры осуществления изобретения</u></p>
+<p num="631">Следует понимать, что, несмотря на то, что изобретение описано в сочетании с его детальным описанием, что вышеупомянутое описание имеет намерение иллюстрировать и не ограничить объем изобретения, который определен объемом прилагаемой формулы изобретения. Другие аспекты, достижения и модификации находятся в пределах формулы изобретения.</p></description>
+<claims lang="ru"><claim num="1"><claim-text>1. Соединение формулы (I)<br/><img file="00000313.tif" he="60" wi="35" img-format="tif" img-content="undefined"/>,<br/>где X представляет собой<br/><img file="00000314.tif" he="16" wi="25" img-format="tif" img-content="undefined"/>, или <img file="00000315.tif" he="17" wi="27" img-format="tif" img-content="undefined"/>;<br/>Y представляет собой Н;<br/>Z представляет собой -С(O)-;<br/>R<sup>1</sup> и R<sup>3</sup> каждый, независимо друг от друга, представляет собой Н или (С<sub>1</sub>-С<sub>4</sub>)алкил;<br/>R<sup>2</sup> и R<sup>4</sup> каждый, независимо друг от друга, представляет собой<br/><img file="00000316.tif" he="19" wi="30" img-format="tif" img-content="undefined"/>, <img file="00000317.tif" he="23" wi="25" img-format="tif" img-content="undefined"/>, <img file="00000318.tif" he="14" wi="36" img-format="tif" img-content="undefined"/> или <img file="00000319.tif" he="22" wi="31" img-format="tif" img-content="undefined"/>;<br/>R<sup>5</sup> представляет собой Н или (C<sub>1</sub>-С<sub>6</sub>)алкил;<br/>R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой (С<sub>1</sub>-С<sub>6</sub>)алкил; и<br/>Q представляет собой Н;<br/>при условии, что каждый из R<sup>2</sup> и R<sup>4</sup> не является <img file="00000320.tif" he="22" wi="31" img-format="tif" img-content="undefined"/> в указанном соединении; или его фармацевтически приемлемая соль.</claim-text></claim>
+<claim num="2"><claim-text>2. Соединение по п.1, в котором, по меньшей мере, один из R<sup>2</sup> и R<sup>4</sup> представляет собой <img file="00000321.tif" he="19" wi="30" img-format="tif" img-content="undefined"/>.</claim-text></claim>
+<claim num="3"><claim-text>3. Соединение по п.2, в котором<br/>R<sup>2</sup> представляет собой <img file="00000322.tif" he="18" wi="30" img-format="tif" img-content="undefined"/>; и<br/>R<sup>4</sup> представляет собой <img file="00000323.tif" he="19" wi="30" img-format="tif" img-content="undefined"/>.</claim-text></claim>
+<claim num="4"><claim-text>4. Соединение по п.2, в котором<br/>R<sup>2</sup> представляет собой <img file="00000324.tif" he="18" wi="30" img-format="tif" img-content="undefined"/>; и<br/>R<sup>4</sup> представляет собой <img file="00000325.tif" he="23" wi="25" img-format="tif" img-content="undefined"/> или <img file="00000326.tif" he="14" wi="36" img-format="tif" img-content="undefined"/>.</claim-text></claim>
+<claim num="5"><claim-text>5. Соединение по п.2, в котором<br/>R<sup>2</sup> представляет собой <img file="00000327.tif" he="19" wi="30" img-format="tif" img-content="undefined"/>; и<br/>R<sup>4</sup> представляет собой <img file="00000328.tif" he="20" wi="30" img-format="tif" img-content="undefined"/>.</claim-text></claim>
+<claim num="6"><claim-text>6. Соединение по п.2, в котором<br/>R<sup>2</sup> представляет собой <img file="00000329.tif" he="23" wi="25" img-format="tif" img-content="undefined"/> или <img file="00000330.tif" he="14" wi="36" img-format="tif" img-content="undefined"/>; и<br/>R<sup>4</sup> представляет собой <img file="00000331.tif" he="19" wi="30" img-format="tif" img-content="undefined"/>.</claim-text></claim>
+<claim num="7"><claim-text>7. Соединение по п.2, в котором<br/>R<sup>2</sup> представляет собой <img file="00000332.tif" he="20" wi="30" img-format="tif" img-content="undefined"/>; и<br/>R<sup>4</sup> представляет собой <img file="00000333.tif" he="19" wi="30" img-format="tif" img-content="undefined"/>.</claim-text></claim>
+<claim num="8"><claim-text>8. Соединение по пп.3, 4 и 6, в котором<br/>Х представляет собой <img file="00000334.tif" he="16" wi="25" img-format="tif" img-content="undefined"/>;<br/>R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н; и<br/>R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой СН<sub>3</sub>.</claim-text></claim>
+<claim num="9"><claim-text>9. Соединение по пп.3, 4, 6, в котором<br/>Х представляет собой <img file="00000335.tif" he="16" wi="26" img-format="tif" img-content="undefined"/>; и<br/>Y представляет собой Н.</claim-text></claim>
+<claim num="10"><claim-text>10. Соединение по любому из пп.8, 9, в котором<br/>R<sup>1</sup> представляет собой Н;<br/>R<sup>3</sup> представляет собой Н; и<br/>R<sup>5</sup> представляет собой Н, метил, этил, изопропил или трет-бутил.</claim-text></claim>
+<claim num="11"><claim-text>11. Соединение по п.3, выбранное из группы, состоящей из:<br/><img file="00000336.tif" he="46" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000337.tif" he="46" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000338.tif" he="47" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000339.tif" he="46" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000340.tif" he="48" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000341.tif" he="48" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000342.tif" he="49" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000343.tif" he="48" wi="61" img-format="tif" img-content="undefined"/><br/>или его фармацевтически приемлемая соль.</claim-text></claim>
+<claim num="12"><claim-text>12. Соединение по п.4, выбранное из группы, состоящей из:<br/><img file="00000344.tif" he="46" wi="58" img-format="tif" img-content="undefined"/>,<br/><img file="00000345.tif" he="52" wi="72" img-format="tif" img-content="undefined"/>,<br/><img file="00000346.tif" he="43" wi="54" img-format="tif" img-content="undefined"/>,<br/><img file="00000347.tif" he="45" wi="60" img-format="tif" img-content="undefined"/>,<br/><img file="00000348.tif" he="45" wi="58" img-format="tif" img-content="undefined"/>,<br/><img file="00000349.tif" he="43" wi="56" img-format="tif" img-content="undefined"/>,<br/><img file="00000350.tif" he="48" wi="60" img-format="tif" img-content="undefined"/>,<br/><img file="00000351.tif" he="47" wi="61" img-format="tif" img-content="undefined"/><br/>или его фармацевтически приемлемая соль.</claim-text></claim>
+<claim num="13"><claim-text>13. Соединение по п.5, выбранное из группы, состоящей из:<br/><img file="00000352.tif" he="44" wi="59" img-format="tif" img-content="undefined"/>,<br/><img file="00000353.tif" he="47" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000354.tif" he="47" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000355.tif" he="47" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000356.tif" he="50" wi="65" img-format="tif" img-content="undefined"/>,<br/><img file="00000357.tif" he="47" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000358.tif" he="47" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000359.tif" he="50" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000360.tif" he="49" wi="63" img-format="tif" img-content="undefined"/>,<br/><img file="00000361.tif" he="43" wi="59" img-format="tif" img-content="undefined"/>,<br/><img file="00000362.tif" he="45" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000363.tif" he="45" wi="61" img-format="tif" img-content="undefined"/><br/>или его фармацевтически приемлемая соль.</claim-text></claim>
+<claim num="14"><claim-text>14. Соединение по п.6, выбранное из группы, состоящей из:<br/><img file="00000364.tif" he="48" wi="58" img-format="tif" img-content="undefined"/>,<br/><img file="00000365.tif" he="43" wi="62" img-format="tif" img-content="undefined"/>,<br/><img file="00000366.tif" he="48" wi="58" img-format="tif" img-content="undefined"/>,<br/><img file="00000367.tif" he="45" wi="64" img-format="tif" img-content="undefined"/>,<br/><img file="00000368.tif" he="49" wi="62" img-format="tif" img-content="undefined"/>,<br/><img file="00000369.tif" he="48" wi="66" img-format="tif" img-content="undefined"/>,<br/><img file="00000370.tif" he="50" wi="62" img-format="tif" img-content="undefined"/>,<br/><img file="00000371.tif" he="47" wi="65" img-format="tif" img-content="undefined"/><br/>или его фармацевтически приемлемая соль.</claim-text></claim>
+<claim num="15"><claim-text>15. Соединение по п.7, выбранное из группы, состоящей из:<br/><img file="00000372.tif" he="47" wi="63" img-format="tif" img-content="undefined"/>,<br/><img file="00000373.tif" he="48" wi="63" img-format="tif" img-content="undefined"/>,<br/><img file="00000374.tif" he="49" wi="65" img-format="tif" img-content="undefined"/>,<br/><img file="00000375.tif" he="48" wi="63" img-format="tif" img-content="undefined"/><br/>или его фармацевтически приемлемая соль.</claim-text></claim>
+<claim num="16"><claim-text>16. Соединение по п.1, в котором<br/>R<sup>2</sup> представляет собой <img file="00000376.tif" he="23" wi="25" img-format="tif" img-content="undefined"/> или <img file="00000377.tif" he="14" wi="36" img-format="tif" img-content="undefined"/>; и<br/>R<sup>4</sup> представляет собой <img file="00000378.tif" he="23" wi="25" img-format="tif" img-content="undefined"/> или <img file="00000379.tif" he="14" wi="36" img-format="tif" img-content="undefined"/>.</claim-text></claim>
+<claim num="17"><claim-text>17. Соединение по п.1, в котором<br/>R<sup>2</sup> представляет собой <img file="00000380.tif" he="23" wi="25" img-format="tif" img-content="undefined"/> или <img file="00000381.tif" he="14" wi="36" img-format="tif" img-content="undefined"/>; и<br/>R<sup>4</sup> представляет собой <img file="00000332.tif" he="20" wi="30" img-format="tif" img-content="undefined"/>.</claim-text></claim>
+<claim num="18"><claim-text>18. Соединение по п.1, в котором<br/>R<sup>2</sup> представляет собой <img file="00000332.tif" he="20" wi="30" img-format="tif" img-content="undefined"/>; и<br/>R<sup>4</sup> представляет собой <img file="00000382.tif" he="23" wi="25" img-format="tif" img-content="undefined"/>или <img file="00000383.tif" he="14" wi="36" img-format="tif" img-content="undefined"/>.</claim-text></claim>
+<claim num="19"><claim-text>19. Соединение по п.16, в котором<br/>Х представляет собой <img file="00000384.tif" he="16" wi="25" img-format="tif" img-content="undefined"/>;<br/>R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н; и<br/>R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой СН<sub>3</sub>.</claim-text></claim>
+<claim num="20"><claim-text>20. Соединение по п.16, в котором<br/>Х представляет собой <img file="00000385.tif" he="15" wi="26" img-format="tif" img-content="undefined"/>; и<br/>Y представляет собой Н.</claim-text></claim>
+<claim num="21"><claim-text>21. Соединение по любому из пп.19, 20, в котором<br/>R<sup>1</sup> представляет собой Н;<br/>R<sup>3</sup> представляет собой Н; и<br/>R<sup>5</sup> представляет собой Н, метил, этил, изопропил или трет-бутил.</claim-text></claim>
+<claim num="22"><claim-text>22. Соединение по п.16, выбранное из группы, состоящей из:<br/><img file="00000386.tif" he="45" wi="54" img-format="tif" img-content="undefined"/>,<br/><img file="00000387.tif" he="45" wi="58" img-format="tif" img-content="undefined"/>,<br/><img file="00000388.tif" he="42" wi="58" img-format="tif" img-content="undefined"/> и<br/><img file="00000389.tif" he="43" wi="60" img-format="tif" img-content="undefined"/><br/>или его фармацевтически приемлемая соль.</claim-text></claim>
+<claim num="23"><claim-text>23. Соединение по п.17, выбранное из группы, состоящей из:<br/><img file="00000390.tif" he="48" wi="58" img-format="tif" img-content="undefined"/> и<br/><img file="00000391.tif" he="45" wi="64" img-format="tif" img-content="undefined"/><br/>или его фармацевтически приемлемая соль.</claim-text></claim>
+<claim num="24"><claim-text>24. Соединение по п.18, выбранное из группы, состоящей из:<br/><img file="00000392.tif" he="43" wi="61" img-format="tif" img-content="undefined"/> и<br/><img file="00000393.tif" he="45" wi="58" img-format="tif" img-content="undefined"/><br/>или его фармацевтически приемлемая соль.</claim-text></claim>
+<claim num="25"><claim-text>25. Соединение по п.1, в котором указанное соединение соответствует формуле:<br/><img file="00000394.tif" he="46" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000395.tif" he="46" wi="58" img-format="tif" img-content="undefined"/>,<br/><img file="00000396.tif" he="48" wi="66" img-format="tif" img-content="undefined"/>,<br/><img file="00000397.tif" he="45" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000398.tif" he="48" wi="63" img-format="tif" img-content="undefined"/>,<br/><img file="00000399.tif" he="49" wi="58" img-format="tif" img-content="undefined"/>,<br/><img file="00000400.tif" he="43" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000401.tif" he="46" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000402.tif" he="48" wi="60" img-format="tif" img-content="undefined"/>,<br/><img file="00000403.tif" he="46" wi="62" img-format="tif" img-content="undefined"/>,<br/><img file="00000404.tif" he="45" wi="60" img-format="tif" img-content="undefined"/>,<br/><img file="00000405.tif" he="47" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000406.tif" he="45" wi="59" img-format="tif" img-content="undefined"/>,<br/><img file="00000407.tif" he="47" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000408.tif" he="51" wi="60" img-format="tif" img-content="undefined"/>,<br/><img file="00000409.tif" he="45" wi="64" img-format="tif" img-content="undefined"/>,<br/><img file="00000410.tif" he="47" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000411.tif" he="48" wi="63" img-format="tif" img-content="undefined"/>,<br/><img file="00000412.tif" he="48" wi="63" img-format="tif" img-content="undefined"/>,<br/><img file="00000413.tif" he="50" wi="65" img-format="tif" img-content="undefined"/>,<br/><img file="00000414.tif" he="48" wi="63" img-format="tif" img-content="undefined"/>,<br/><img file="00000415.tif" he="47" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000416.tif" he="48" wi="60" img-format="tif" img-content="undefined"/>,<br/><img file="00000417.tif" he="47" wi="65" img-format="tif" img-content="undefined"/>,<br/><img file="00000418.tif" he="47" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000419.tif" he="48" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000420.tif" he="49" wi="63" img-format="tif" img-content="undefined"/>,<br/><img file="00000421.tif" he="50" wi="64" img-format="tif" img-content="undefined"/>,<br/><img file="00000422.tif" he="49" wi="63" img-format="tif" img-content="undefined"/>,<br/><img file="00000423.tif" he="49" wi="63" img-format="tif" img-content="undefined"/>,<br/><img file="00000424.tif" he="49" wi="60" img-format="tif" img-content="undefined"/>,<br/><img file="00000425.tif" he="49" wi="66" img-format="tif" img-content="undefined"/>,<br/><img file="00000426.tif" he="51" wi="65" img-format="tif" img-content="undefined"/>,<br/><img file="00000427.tif" he="47" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000428.tif" he="47" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000429.tif" he="51" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000430.tif" he="47" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000431.tif" he="46" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000432.tif" he="46" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000433.tif" he="46" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000434.tif" he="48" wi="58" img-format="tif" img-content="undefined"/>,<br/><img file="00000435.tif" he="44" wi="62" img-format="tif" img-content="undefined"/>,<br/><img file="00000436.tif" he="46" wi="64" img-format="tif" img-content="undefined"/>,<br/><img file="00000437.tif" he="47" wi="60" img-format="tif" img-content="undefined"/>,<br/><img file="00000438.tif" he="50" wi="58" img-format="tif" img-content="undefined"/>,<br/><img file="00000439.tif" he="51" wi="65" img-format="tif" img-content="undefined"/> и<br/><img file="00000440.tif" he="47" wi="71" img-format="tif" img-content="undefined"/><br/>или его фармацевтически приемлемая соль.</claim-text></claim>
+<claim num="26"><claim-text>26. Соединение по п.25, в котором указанное соединение соответствует формуле:<br/><img file="00000441.tif" he="46" wi="60" img-format="tif" img-content="undefined"/>,<br/><img file="00000442.tif" he="46" wi="58" img-format="tif" img-content="undefined"/>,<br/><img file="00000443.tif" he="48" wi="62" img-format="tif" img-content="undefined"/>,<br/><img file="00000444.tif" he="48" wi="62" img-format="tif" img-content="undefined"/>,<br/><img file="00000445.tif" he="50" wi="60" img-format="tif" img-content="undefined"/>,<br/><img file="00000446.tif" he="47" wi="66" img-format="tif" img-content="undefined"/>,<br/><img file="00000447.tif" he="47" wi="62" img-format="tif" img-content="undefined"/>,<br/><img file="00000448.tif" he="47" wi="62" img-format="tif" img-content="undefined"/>,<br/><img file="00000449.tif" he="50" wi="65" img-format="tif" img-content="undefined"/>,<br/><img file="00000450.tif" he="49" wi="64" img-format="tif" img-content="undefined"/>,<br/><img file="00000451.tif" he="47" wi="61" img-format="tif" img-content="undefined"/>,<br/><img file="00000452.tif" he="49" wi="63" img-format="tif" img-content="undefined"/>,<br/><img file="00000453.tif" he="52" wi="63" img-format="tif" img-content="undefined"/> и<br/><img file="00000454.tif" he="50" wi="60" img-format="tif" img-content="undefined"/><br/>или его фармацевтически приемлемая соль.</claim-text></claim>
+<claim num="27"><claim-text>27. Соединение по п.26, в котором указанное соединение соответствует формуле:<br/><img file="00000455.tif" he="48" wi="62" img-format="tif" img-content="undefined"/>,<br/><img file="00000456.tif" he="48" wi="62" img-format="tif" img-content="undefined"/>,<br/><img file="00000457.tif" he="50" wi="60" img-format="tif" img-content="undefined"/>,<br/><img file="00000458.tif" he="47" wi="62" img-format="tif" img-content="undefined"/>,<br/><img file="00000459.tif" he="47" wi="62" img-format="tif" img-content="undefined"/>,<br/><img file="00000460.tif" he="48" wi="62" img-format="tif" img-content="undefined"/>,<br/><img file="00000461.tif" he="49" wi="64" img-format="tif" img-content="undefined"/>,<br/><img file="00000462.tif" he="52" wi="64" img-format="tif" img-content="undefined"/> и<br/><img file="00000463.tif" he="50" wi="60" img-format="tif" img-content="undefined"/><br/>или его фармацевтически приемлемая соль.</claim-text></claim>
+<claim num="28"><claim-text>28. Соединение по п.27, в котором указанное соединение соответствует формуле:<br/><img file="00000464.tif" he="48" wi="63" img-format="tif" img-content="undefined"/>,<br/><img file="00000465.tif" he="48" wi="63" img-format="tif" img-content="undefined"/>,<br/><img file="00000466.tif" he="48" wi="63" img-format="tif" img-content="undefined"/>,<br/><img file="00000467.tif" he="48" wi="63" img-format="tif" img-content="undefined"/> и<br/><img file="00000468.tif" he="50" wi="60" img-format="tif" img-content="undefined"/><br/>или его фармацевтически приемлемая соль.</claim-text></claim>
+<claim num="29"><claim-text>29. Соединение по п.28, в котором указанное соединение соответствует формуле:<br/><img file="00000469.tif" he="46" wi="62" img-format="tif" img-content="undefined"/><br/><img file="00000470.tif" he="47" wi="62" img-format="tif" img-content="undefined"/> и<br/><img file="00000471.tif" he="49" wi="60" img-format="tif" img-content="undefined"/><br/>или его фармацевтически приемлемая соль.</claim-text></claim>
+<claim num="30"><claim-text>30. Соединение по п.29, в котором указанное соединение соответствует формуле:<br/><img file="00000470.tif" he="47" wi="62" img-format="tif" img-content="undefined"/><br/>или его фармацевтически приемлемая соль.</claim-text></claim>
+<claim num="31"><claim-text>31. Соединение по п.25, в котором указанное соединение соответствует формуле:<br/><img file="00000472.tif" he="45" wi="58" img-format="tif" img-content="undefined"/> и<br/><img file="00000471.tif" he="49" wi="60" img-format="tif" img-content="undefined"/><br/>или его фармацевтически приемлемая соль.</claim-text></claim>
+<claim num="32"><claim-text>32. Соединение по п.25, в котором указанное соединение соответствует формуле:<br/><img file="00000472.tif" he="45" wi="58" img-format="tif" img-content="undefined"/>,<br/><img file="00000473.tif" he="46" wi="62" img-format="tif" img-content="undefined"/> и<br/><img file="00000474.tif" he="46" wi="66" img-format="tif" img-content="undefined"/><br/>или его фармацевтически приемлемая соль.</claim-text></claim>
+<claim num="33"><claim-text>33. Фармацевтическая композиция для стимуляции гормона роста у субъекта, включающая соединение по любому из пп.25-32 и фармацевтически приемлемый носитель.</claim-text></claim>
+<claim num="34"><claim-text>34. Соединение формулы (II)<br/><img file="00000475.tif" he="60" wi="35" img-format="tif" img-content="undefined"/>,<br/>где Х представляет собой<br/><img file="00000476.tif" he="16" wi="25" img-format="tif" img-content="undefined"/><br/>Z представляет собой -С(O)-;<br/>R<sup>1</sup> и R<sup>3</sup> каждый, независимо друг от друга, представляет собой Н;<br/>R<sup>2</sup> и R<sup>4</sup> каждый, независимо друг от друга, представляет собой<br/><img file="00000477.tif" he="18" wi="30" img-format="tif" img-content="undefined"/>, или <img file="00000332.tif" he="20" wi="30" img-format="tif" img-content="undefined"/>;<br/>R<sup>5</sup> представляет собой (С<sub>1</sub>-С<sub>6</sub>)алкилгалоген;<br/>R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой (C<sub>1</sub>-С<sub>6</sub>)алкил;<br/>R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н; и<br/>Q представляет собой Н;<br/>при условии, что каждый из R<sup>2</sup> и R<sup>4</sup> не является <img file="00000332.tif" he="20" wi="30" img-format="tif" img-content="undefined"/> в указанном соединении;<br/>или его фармацевтически приемлемая соль.</claim-text></claim>
+<claim num="35"><claim-text>35. Соединение по п.34, в котором<br/>R<sup>2</sup> представляет собой <img file="00000477.tif" he="18" wi="30" img-format="tif" img-content="undefined"/>; и<br/>R<sup>4</sup> представляет собой <img file="00000332.tif" he="20" wi="30" img-format="tif" img-content="undefined"/>.</claim-text></claim>
+<claim num="36"><claim-text>36. Соединение по п.35, в котором<br/>Х представляет собой <img file="00000478.tif" he="16" wi="25" img-format="tif" img-content="undefined"/>;<br/>R<sup>6</sup> и R<sup>7</sup> каждый, независимо друг от друга, представляет собой Н; и<br/>R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой СН<sub>3</sub>.</claim-text></claim>
+<claim num="37"><claim-text>37. Соединение по п.36, в котором<br/>R<sup>1</sup> представляет собой Н;<br/>R<sup>3</sup> представляет собой Н; и<br/>R<sup>5</sup> представляет собой -CF<sub>3</sub>.</claim-text></claim>
+<claim num="38"><claim-text>38. Соединение по п.34 формулы:<br/><img file="00000479.tif" he="50" wi="59" img-format="tif" img-content="undefined"/><br/>или его фармацевтически приемлемая соль.</claim-text></claim>
+<claim num="39"><claim-text>39. Фармацевтическая композиция для стимуляции секреции гормона роста у субъекта, включающая соединение по п.38 и фармацевтически приемлемый носитель.</claim-text></claim>
+<claim num="40"><claim-text>40. Агонист грелина, соответствующий соединению формулы (I) или (II) или его фармацевтически приемлемые соли, для стимуляции секреции гормона роста у субъекта, нуждающегося в такой стимуляции, взятый в эффективном количестве, где указанное эффективное количество представляет собой, по меньшей мере, количество, достаточное для вызывания заметного возрастания секреции гормона роста, и предпочтительно представляет собой количество, достаточное для достижения лечебного эффекта у пациента.</claim-text></claim>
+<claim num="41"><claim-text>41. Агонист грелина по п.40, где указанная стимуляция секреции гормона роста требуется для лечения состояния дефицита гормона роста, для повышения мышечной массы, для повышения плотности кости, для лечения половой дисфункции у мужчин или женщин, для способствования приросту массы тела, для способствования поддержанию веса, для способствования поддержания физического функционирования, для способствования восстановлению физической функции и/или способствования повышению аппетита.</claim-text></claim>
+<claim num="42"><claim-text>42. Агонист грелина по п.41, в котором указанное способствование приросту массы тела, способствование поддержанию веса и/или способствование повышению аппетита требуется пациенту, имеющему заболевание или расстройство или проходящему лечение, сопровождающееся потерей массы тела.</claim-text></claim>
+<claim num="43"><claim-text>43. Агонист грелина по п.42, где указанное заболевание или расстройство, сопровождающееся потерей массы тела, включает анорексию, булимию, раковую кахексию, истощение при СПИДе, кахексию.</claim-text></claim>
+<claim num="44"><claim-text>44. Антагонист грелина, соответствующий формуле (I) или (II) или его фармацевтически приемлемые соли, для подавления секреции гормона роста у субъекта, нуждающегося в таком подавлении, взятый в эффективном количестве, где указанное эффективное количество представляет собой, по меньшей мере, количество, достаточное для вызывания заметного уменьшения в секреции гормона роста, и предпочтительно, представляет собой количество, достаточное для достижения лечебного эффекта у пациента.</claim-text></claim>
+<claim num="45"><claim-text>45. Антагонист грелина по п.44, где указанное подавление секреции гормона роста требуется для лечения заболевания или патологического состояния, характеризующихся избыточной секрецией гормона роста, для способствования потере массы тела, для способствования снижению аппетита, для способствования поддержанию веса, для лечения ожирения, для профилактики и лечения диабета, для лечения осложнений диабета, включающих ретинопатию.</claim-text></claim>
+<claim num="46"><claim-text>46. Антагонист грелина по п.45, где указанный избыточный вес является фактором, способствующим заболеванию или патологическому состоянию, включающим гипертонию, диабет, дислипидемию.</claim-text></claim>
+<claim num="47"><claim-text>47. Антагонист грелина по п.46, где указанное способствование потере веса понижает вероятность таких заболеваний или патологических состояний или где указанное способствование потере веса включает, по меньшей мере, часть лечения таких заболеваний или патологических состояний.</claim-text></claim>
+<claim num="48"><claim-text>48. Агонист грелина, соответствующий формуле (I) или (II) или его фармацевтически приемлемые соли, для выявления действия агониста грелина на субъект, где указанный агонист грелина взят в эффективном количестве, которое представляет собой, по меньшей мере, количество, достаточное для вызывания заметного уменьшения в секреции гормона роста, и предпочтительно представляет собой количество, достаточное для достижения лечебного эффекта у пациента.</claim-text></claim>
+<claim num="49"><claim-text>49. Антагонист грелина, соответствующий формуле (I) или (II) или его фармацевтически приемлемые соли, для выявления действия антагониста грелина на субъект, взятый в эффективном количестве, где указанное эффективное количество представляет собой, по меньшей мере, количество, достаточное для вызывания заметного уменьшения в секреции гормона роста, и предпочтительно представляет собой количество, достаточное для достижения лечебного эффекта у пациента.
+</claim-text></claim>
+</claims>
+
+<abstract lang="ru" status="N">
+<p num="632">Изобретение относится к соединениям формулы (I) либо формулы (II)</p>
+<p num="633"><img file="00000313.tif" he="60" wi="35" img-format="tif" img-content="undefined"/> <img file="00000475.tif" he="60" wi="35" img-format="tif" img-content="undefined"/></p>
+<p num="634">или к их фармацевтически приемлемым солям, в которых Х представляет собой <img file="00000314.tif" he="16" wi="25" img-format="tif" img-content="undefined"/> или <img file="00000315.tif" he="17" wi="27" img-format="tif" img-content="undefined"/>; </p>
+<p num="635">Y представляет собой Н; Z представляет собой -С(O)-; R<sup>1</sup> и R<sup>3</sup> каждый, независимо друг от друга, представляет собой Н или (C<sub>1</sub>-C<sub>4</sub>) алкил; R<sup>2</sup> и R<sup>4</sup>, каждый, независимо друг от друга, представляет собой</p>
+<p num="636"><img file="00000316.tif" he="19" wi="30" img-format="tif" img-content="undefined"/>, <img file="00000317.tif" he="23" wi="25" img-format="tif" img-content="undefined"/>, <img file="00000318.tif" he="14" wi="36" img-format="tif" img-content="undefined"/> или <img file="00000319.tif" he="22" wi="31" img-format="tif" img-content="undefined"/>; R<sup>5</sup> представляет собой Н или (C<sub>1</sub>-С<sub>6</sub>) алкил; R<sup>8</sup> и R<sup>9</sup> каждый, независимо друг от друга, представляет собой (С<sub>1</sub>-С<sub>6</sub>) алкил и Q представляет собой Н. Изобретение также относится к фармацевтической композиции для стимуляции гормона роста у субъекта на основе указанных соединений. 8 н. и 41 з.п. ф-лы, 2 табл.
+</p></abstract>
+
+<abstract lang="en" status="N">
+<p num="637">FIELD: chemistry.</p>
+<p num="638">SUBSTANCE: invention relates to compounds of formula <img file="00000480.tif" he="54" wi="31" img-format="tif" img-content="undefined"/> (I) or <img file="00000481.tif" he="53" wi="31" img-format="tif" img-content="undefined"/> (II) or pharmaceutically acceptable salts thereof, in which X is <img file="00000482.tif" he="16" wi="25" img-format="tif" img-content="undefined"/> or <img file="00000483.tif" he="17" wi="27" img-format="tif" img-content="undefined"/>; Y is H; Z is -C(O)-; R<sup>1</sup> and R<sup>3</sup> each independently denotes H or (C<sub>1</sub>-C<sub>4</sub>) alkyl; R<sup>2</sup> and R<sup>4</sup> each independently denotes <img file="00000484.tif" he="19" wi="30" img-format="tif" img-content="undefined"/>, <img file="00000485.tif" he="23" wi="25" img-format="tif" img-content="undefined"/>, <img file="00000486.tif" he="14" wi="36" img-format="tif" img-content="undefined"/> or <img file="00000487.tif" he="22" wi="31" img-format="tif" img-content="undefined"/>; R<sup>5</sup> denotes H or (C<sub>1</sub>-C<sub>6</sub>) alkyl; R<sup>8</sup> and R<sup>9</sup> each independently denote (C<sub>1</sub>-C<sub>6</sub>) alkyl; and Q is H.</p>
+<p num="639">EFFECT: possibility of use in stimulating the growth hormone in a subject based on the said compounds.</p>
+<p num="640">49 cl, 2 tbl, 57 ex
+</p></abstract>
+</ru-patent-document>

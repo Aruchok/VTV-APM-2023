@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE ru-patent-document SYSTEM "ru-patent-document-v1-3.dtd">
+<ru-patent-document lang="ru" dtd-version="ru-patent-document-v1-3" doc-number="02439003" country="RU" kind="C1" date-publ="20120110" status="N">
+<SDOBI lang="ru">
+<B000><ru-tags>
+<ru-b002>На основании пункта 1 статьи 1366 части четвертой Гражданского кодекса Российской Федерации патентообладатель обязуется заключить договор об отчуждении патента на условиях, соответствующих установившейся практике, с любым гражданином Российской Федерации или российским юридическим лицом, кто первым изъявил такое желание и уведомил об этом патентообладателя и федеральный орган исполнительной власти по интеллектуальной собственности.</ru-b002>
+</ru-tags></B000>
+<B100>
+<B110>02439003</B110>
+<B130>C1</B130>
+
+<B140><date>20120110</date></B140>
+<B190>RU</B190>
+</B100>
+<ru-b200 ru-priority="22">
+<B210>2010132868/03</B210>
+<B220><date>20100804</date></B220>
+<B240><ru-b240><date>20100804</date></ru-b240></B240>
+</ru-b200>
+<B400>
+<B450><date>20120110</date></B450>
+</B400>
+<B500>
+<B510EP>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>C</section><class>03</class><subclass>C</subclass><main-group>   8</main-group><subgroup>14    </subgroup><symbol-position>first-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20110923</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+</B510EP>
+<ru-b540>
+<B541>ru</B541><ru-b542>МАССА ДЛЯ ПОЛУЧЕНИЯ ЭМАЛЕВОГО ПОКРЫТИЯ</ru-b542>
+</ru-b540>
+
+<B560><ru-b560>RU 2313499 C1, 27.12.2007. SU 1296527 A1, 15.03.1987. SU 1698205 A1, 15.12.1991. SU 1477705 A1, 07.05.1989. FR 2367027 A2, 05.05.1978.</ru-b560></B560>
+</B500>
+<B700><B720>
+<B721><ru-name-text>Щепочкина Юлия Алексеевна (RU)</ru-name-text></B721>
+</B720>
+<B730>
+<B731><ru-name-text>Щепочкина Юлия Алексеевна (RU)</ru-name-text></B731>
+</B730></B700>
+<B900>
+<ru-b980>153000, г.Иваново, ул. Варенцовой, 17/1, кв.7, Ю.А. Щепочкиной</ru-b980>
+</B900>
+
+
+</SDOBI>
+
+<SDOBI lang="en">
+<B000><ru-tags>
+<ru-b002>According to Art. 1366, par. 1 of the Part IY of the Civil Code of the Russian Federation, the patent holder shall be committed to conclude a contract on alienation of the patent under the terms, corresponding to common practice, with any citizen of the Russian Federation or Russian legal entity who first declared such a willingness and notified this to the patent holder and the Federal Executive Authority for Intellectual Property.</ru-b002>
+</ru-tags></B000>
+<B100>
+<B110>02439003</B110>
+<B130>C1</B130>
+
+<B140><date>20120110</date></B140>
+<B190>RU</B190>
+</B100>
+<ru-b200 ru-priority="22">
+<B210>2010132868/03</B210>
+<B220><date>20100804</date></B220>
+<B240><ru-b240><date>20100804</date></ru-b240></B240>
+</ru-b200>
+<B400>
+<B450><date>20120110</date></B450>
+</B400>
+<B500>
+<B510EP>
+<classification-ipcr><ipc-version-indicator><date>20060101</date></ipc-version-indicator><classification-level>ipcr-advanced</classification-level><section>C</section><class>03</class><subclass>C</subclass><main-group>   8</main-group><subgroup>14    </subgroup><symbol-position>first-symbol-position</symbol-position><classification-value>invention</classification-value><action-date><date>20110923</date></action-date><generating-office><country>RU</country></generating-office><classification-status>original-classification</classification-status><classification-data-source>human-generated-classification</classification-data-source></classification-ipcr>
+</B510EP>
+<ru-b540>
+<B541>en</B541><ru-b542>MIXTURE FOR MAKING ENAMEL COATING</ru-b542>
+</ru-b540></B500>
+<B700><B720>
+<B721><ru-name-text>Shchepochkina Julija Alekseevna (RU)</ru-name-text></B721>
+</B720>
+<B730>
+<B731><ru-name-text>Shchepochkina Julija Alekseevna (RU)</ru-name-text></B731>
+</B730></B700>
+<B900>
+<ru-b980>153000, g.Ivanovo, ul. Varentsovoj, 17/1, kv.7, Ju.A. Shchepochkinoj</ru-b980>
+</B900>
+
+
+</SDOBI>
+
+<description lang="ru" status="N">
+<p num="1">Изобретение относится к составам масс для получения эмалевого покрытия на изделиях из керамики, преимущественно облицовочной плитке, печных изразцах.</p>
+<p num="2">Известна масса для получения эмалевого покрытия следующего состава, мас.%: фритта 90,0-92,0; муллит 7,0-8,0; глина 1,0-2,0 [1].</p>
+<p num="3">Задачей изобретения является повышение термостойкости эмалевого покрытия.</p>
+<p num="4">Технический результат достигается тем, что масса для получения эмалевого покрытия, содержащая фритту, муллит, глину, дополнительно содержит молотый глинозем при следующем соотношении компонентов, мас.%: фритта 71,0-74,0; муллит 12,0-14,0; глина 3,0-4,0; молотый глинозем 10,0-12,0. Масса для получения эмалевого покрытия дополнительно содержит оксид церия в количестве 2,0-3,0 мас.%.</p>
+<p num="5">В таблице приведены составы массы.</p>
+<p num="6">
+<tables num="1"><table frame="all">
+<tgroup cols="6" rowsep="1" colsep="1">
+<colspec colname="c0" colwidth="26mm"/>
+<colspec colname="c1" colwidth="27mm"/>
+<colspec colname="c2" colwidth="30mm"/>
+<colspec colname="c3" colwidth="27mm"/>
+<colspec colname="c4" colwidth="24mm"/>
+<colspec colname="c5" colwidth="41mm"/>
+<tbody>
+<row>
+<entry align="right" namest="c0" nameend="c5" rowsep="1" colsep="0">Таблица</entry>
+</row>
+<row>
+<entry align="center" morerows="1" rowsep="1" colsep="1">Состав</entry>
+<entry align="center" namest="c1" nameend="c5" rowsep="1" colsep="0">Компоненты, мас.%</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">Фритта</entry>
+<entry align="center" rowsep="1" colsep="1">Муллит</entry>
+<entry align="center" rowsep="1" colsep="1">Глина</entry>
+<entry align="center" rowsep="1" colsep="1">Молотый глинозем</entry>
+<entry align="center" rowsep="1" colsep="0">Оксид церия</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">1</entry>
+<entry align="center" rowsep="1" colsep="1">71,0</entry>
+<entry align="center" rowsep="1" colsep="1">14,0</entry>
+<entry align="center" rowsep="1" colsep="1">3,0</entry>
+<entry align="center" rowsep="1" colsep="1">12,0</entry>
+<entry align="center" rowsep="1" colsep="0">-</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">2</entry>
+<entry align="center" rowsep="1" colsep="1">72,0</entry>
+<entry align="center" rowsep="1" colsep="1">12,0</entry>
+<entry align="center" rowsep="1" colsep="1">4,0</entry>
+<entry align="center" rowsep="1" colsep="1">10,0</entry>
+<entry align="center" rowsep="1" colsep="0">2,0</entry>
+</row>
+<row>
+<entry align="center" rowsep="1" colsep="1">3</entry>
+<entry align="center" rowsep="1" colsep="1">71,0</entry>
+<entry align="center" rowsep="1" colsep="1">12,0</entry>
+<entry align="center" rowsep="1" colsep="1">4,0</entry>
+<entry align="center" rowsep="1" colsep="1">10,0</entry>
+<entry align="center" rowsep="1" colsep="0">3,0</entry>
+</row>
+<row>
+<entry align="center" rowsep="0" colsep="1">4</entry>
+<entry align="center" rowsep="0" colsep="1">74,0</entry>
+<entry align="center" rowsep="0" colsep="1">12,0</entry>
+<entry align="center" rowsep="0" colsep="1">4,0</entry>
+<entry align="center" rowsep="0" colsep="1">10,0</entry>
+<entry align="center" rowsep="0" colsep="0">-</entry>
+</row>
+</tbody></tgroup></table></tables>
+
+</p>
+<p num="7">Термостойкость эмалевого покрытия составит не менее 15 теплосмен (при 450°C нагрева с охлаждением до 20°C на воздухе) для любого состава, приведенного в таблице.</p>
+<p num="8">Для приготовления эмалевого покрытия используют выпускаемые промышленностью фритты: 24/70, ДМ-2, В-9, ЛГ-19. Фритту, муллит, глину и глинозем размалывают до полного прохождения через сетку 0056. Компоненты дозируют в требуемых количествах, смешивают. К полученной массе добавляют воду и готовят суспензию с влажностью 45-55%. Суспензию наносят на поверхность изделий и закрепляют обжигом в интервале температур 850-1200°C.</p>
+<p num="9">Источники информации</p>
+<p num="10">1. RU 2313499 С1, 2007.</p></description>
+<claims lang="ru"><claim num="1"><claim-text>1. Масса для получения эмалевого покрытия, содержащая фритту, муллит, глину, отличающаяся тем, что дополнительно содержит молотый глинозем при следующем соотношении компонентов, мас.%: фритта - 71,0-74,0; муллит - 12,0-14,0; глина - 3,0-4,0; молотый глинозем - 10,0-12,0.</claim-text></claim>
+<claim num="2"><claim-text>2. Масса для получения эмалевого покрытия по п.1, отличающаяся тем, что дополнительно содержит оксид церия в количестве 2,0-3,0 мас.%.
+</claim-text></claim>
+</claims>
+
+<abstract lang="ru" status="N">
+<p num="11">Изобретение относится к составам масс для получения эмалевого покрытия на изделиях из керамики, преимущественно облицовочной плитке, печных изразцах. Техническим результатом изобретения является повышение термостойкости эмалевого покрытия. Масса для получения эмалевого покрытия содержит фритту, муллит, глину и молотый глинозем при следующем соотношении компонентов, мас.%: фритта - 71,0-74,0; муллит - 12,0-14,0; глина - 3,0-4,0; молотый глинозем - 10,0-12,0. Масса для получения эмалевого покрытия дополнительно содержит оксид церия в количестве 2,0-3,0 мас.%. 1 табл.
+</p></abstract>
+
+<abstract lang="en" status="N">
+<p num="12">FIELD: chemistry.</p>
+<p num="13">SUBSTANCE: invention relates to compositions of mixtures for making enamel coating on ceramic articles, mainly facing tiles and stove tiles. The mixture for making enamel coating contains frit, mullite, clay and ground alumina, with the following ratio of components in wt %: frit 71.0-74.0; mullite 12.0-14.0; clay 3.0-4.0; ground alumina 10.0-12.0. The mixture for making enamel coating additionally contains cerium oxide in amount of 2.0-3.0 wt %.</p>
+<p num="14">EFFECT: high heat resistance of the enamel coating.</p>
+<p num="15">1 tbl
+</p></abstract>
+</ru-patent-document>

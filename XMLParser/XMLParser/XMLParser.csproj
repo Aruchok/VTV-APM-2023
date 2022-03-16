@@ -1,0 +1,56 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net472</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+    <Content Include="Resources\*">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+      <None Update="Resources\001\001.xml">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="Resources\002\002.xml">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="Resources\003\0031\0031.xml">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="Resources\004\004.xml">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="Resources\005\005.xml">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    <Content Include="439\**">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="445\**">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="RUW1C9\**">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Remove="RUW1C9\**" />
+    <None Remove="RUW1C9\**" />
+    <Content Remove="445\**" />
+    <None Remove="445\**" />
+    <Content Remove="439\**" />
+    <None Remove="439\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="RUW1C9\**" />
+      <Compile Remove="445\**" />
+      <Compile Remove="439\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="RUW1C9\**" />
+      <EmbeddedResource Remove="445\**" />
+      <EmbeddedResource Remove="439\**" />
+    </ItemGroup>
+
+</Project>
